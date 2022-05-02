@@ -38,7 +38,6 @@ const DisplayContent = () => {
     tempArr.push(indexes[2])
     setItems([...items, ...tempArr])
   }, [threePosts])
-  console.log(items);
 
   const goToDisplayContent = (id) => {
     navigate(`/${list[id].category}/${id}`)
