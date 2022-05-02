@@ -4,7 +4,6 @@ import {
   FacebookShareButton, FacebookIcon,
   WhatsappShareButton, WhatsappIcon,
   TwitterShareButton, TwitterIcon,
-  LinkedinShareButton, LinkedinIcon,
   EmailShareButton, EmailIcon
 } from "react-share";
 import { useParams, useLocation } from 'react-router-dom';
@@ -18,7 +17,8 @@ const DisplayContent = () => {
   const [items, setItems] = useState([]);
   const navigate = useNavigate();
   const url = window.location.href
-  // console.log(url);
+  const [threePosts, setThreePosts] = useState(3);
+
   useEffect(() => {
     window.scrollTo(220, 220);
   }, [pathname]);
@@ -27,17 +27,17 @@ const DisplayContent = () => {
     let randomItem1 = Math.floor(Math.random() * list.length)
     let randomItem2 = Math.floor(Math.random() * list.length)
     let randomItem3 = Math.floor(Math.random() * list.length)
-    return [randomItem1, randomItem2, randomItem3];
+    return [list[randomItem1], list[randomItem2], list[randomItem3]];
   }
 
   useEffect(() => {
     const tempArr = []
     const indexes = getRandom()
-    tempArr.push(list[indexes[0]])
-    tempArr.push(list[indexes[1]])
-    tempArr.push(list[indexes[2]])
+    tempArr.push(indexes[0])
+    tempArr.push(indexes[1])
+    tempArr.push(indexes[2])
     setItems([...items, ...tempArr])
-  }, [pathname])
+  }, [threePosts])
   console.log(items);
 
   const goToDisplayContent = (id) => {
@@ -67,11 +67,7 @@ const DisplayContent = () => {
               <TwitterIcon size={40} round={true} />
             </TwitterShareButton>&nbsp;
 
-            <LinkedinShareButton url={url} title={list[ID].title} summary={list[ID].shortDesc} source={"source"}>
-              <LinkedinIcon size={40} round={true} />
-            </LinkedinShareButton>&nbsp;
-
-            <EmailShareButton url={url} subject={"subject"} body={"body"} separator={" "}>
+            <EmailShareButton url={url} subject={''} body={list[ID].title} separator={" "}>
               <EmailIcon size={40} round={true} />
             </EmailShareButton>&nbsp;
           </div>
@@ -119,4 +115,3 @@ const DisplayContent = () => {
 }
 
 export default DisplayContent
-
