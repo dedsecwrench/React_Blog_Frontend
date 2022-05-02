@@ -41,7 +41,7 @@ const DisplayContent = () => {
   console.log(items);
 
   const goToDisplayContent = (id) => {
-    navigate(`/home/${id}`)
+    navigate(`/${list[id].category}/${id}`)
   }
 
   return (
