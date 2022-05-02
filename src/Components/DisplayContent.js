@@ -17,7 +17,8 @@ const DisplayContent = () => {
   const { pathname } = useLocation();
   const [items, setItems] = useState([]);
   const navigate = useNavigate();
-
+  const url = window.location.href
+  // console.log(url);
   useEffect(() => {
     window.scrollTo(220, 220);
   }, [pathname]);
@@ -54,23 +55,23 @@ const DisplayContent = () => {
             <span className='date text-muted'>{list[ID].date}</span>
           </div>
           <div className='right'>
-            <FacebookShareButton url={`http://localhost:3000/Hollywood/4`} quote={list[ID].title}>
+            <FacebookShareButton url={url} quote={list[ID].title}>
               <FacebookIcon size={40} round={true} />
             </FacebookShareButton>&nbsp;
 
-            <WhatsappShareButton url={`http://localhost:3000/Hollywood/4`} title={list[ID].title}>
+            <WhatsappShareButton url={url} title={list[ID].title}>
               <WhatsappIcon size={40} round={true} />
             </WhatsappShareButton>&nbsp;
 
-            <TwitterShareButton url={`http://localhost:3000/Hollywood/4`} title={list[ID].title}>
+            <TwitterShareButton url={url} title={list[ID].title}>
               <TwitterIcon size={40} round={true} />
             </TwitterShareButton>&nbsp;
 
-            <LinkedinShareButton url={`http://localhost:3000/Hollywood/4`} title={list[ID].title} summary={list[ID].shortDesc} source={"source"}>
+            <LinkedinShareButton url={url} title={list[ID].title} summary={list[ID].shortDesc} source={"source"}>
               <LinkedinIcon size={40} round={true} />
             </LinkedinShareButton>&nbsp;
 
-            <EmailShareButton url={`http://localhost:3000/Hollywood/4`} subject={"subject"} body={"body"} separator={" "}>
+            <EmailShareButton url={url} subject={"subject"} body={"body"} separator={" "}>
               <EmailIcon size={40} round={true} />
             </EmailShareButton>&nbsp;
           </div>
@@ -118,3 +119,4 @@ const DisplayContent = () => {
 }
 
 export default DisplayContent
+
