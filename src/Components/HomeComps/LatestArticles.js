@@ -6,7 +6,7 @@ const LatestArticles = () => {
   const [list] = useContext(BlogCon);
   const navigate = useNavigate();
   const goToDisplayContent = (id) => {
-    navigate(`/home/${id}`)
+    navigate(`/${list[id].category}/${id}`)
   }
   const [items, setItems] = useState([]);
   const [fourPosts, setFourPosts] = useState(4);
