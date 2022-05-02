@@ -39,7 +39,7 @@ const Home = () => {
                 <div onClick={() => { goToDisplayContent(current.id) }} className='Home-2' >
                   <img className='img-home2' src={current.img} alt="" />
                   <span className='home-2-title'>{current.title}</span>  <br />
-                  <span className='home-2-date'>{current.type} / {current.date}</span>
+                  <span className='home-2-date'>{current.category} / {current.date}</span>
                 </div>
               </div>)
             }
