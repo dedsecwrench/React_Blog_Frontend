@@ -6,7 +6,7 @@ const TheLatest = () => {
   const [list] = useContext(BlogCon);
   const navigate = useNavigate();
   const goToDisplayContent =(id)=>{
-    navigate(`/home/${id}`)
+    navigate(`/${list[id].category}/${id}`)
   }
   return (
     <div>
