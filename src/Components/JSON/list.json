@@ -1,7 +1,7 @@
 [
     {
         "id": 0,
-        "category" : "Home",
+        "category" : "Travel",
         "title" : "Lake Wanaka, New Zealand",
         "img":"https://media.cntraveler.com/photos/5a67511601a13140ff08e0b5/16:9/w_4992,h_2808,c_limit/GettyImages-602308886.jpg",
         "type":"Travel",
@@ -11,21 +11,21 @@
     },
     {
         "id": 1,
-        "category" : "Home",
+        "category" : "Travel",
         "title" : "Boracay, Philippines",
         "img":"https://media.cntraveler.com/photos/60595fbeaa174d1449ef6899/master/w_2580%2Cc_limit/Boracay-GettyImages-657020958.jpg",
-        "type":"Travel",
+        "type":"home",
         "description": "Boracay is a tropical island surrounded by stunning white sand beaches and clear blue waters located about an hour's flight from Cebu or Manila just off the larger Philippines island of Panay. For beach connoisseurs, Boracay competes with the best beaches in more popular destinations such as the Caribbean and the South Pacific as well as neighboring Thailand, Malaysia and Indonesia. Tourists will appreciate water sports and activities such as sailing, windsurfing, snorkeling, diving and jet skiing. The fun in Boracay doesn't end when the sun sets. The nightlife pulsates with many bars and restaurants serving food, drink and fun until the wee hours of dawn. Boracay is a small island in the central Philippines. It's known for its resorts and beaches. Along the west coast, White Beach is backed by palm trees, bars and restaurants. On the east coast, strong winds make Bulabog Beach a hub for water sports. Nearby, the observation deck on Mount Luho offers panoramic views over the island. Offshore, coral reefs and shipwrecks are home to diverse marine life. Boracay suffered from overdevelopment and inherited a negative reputation for dodgy nightlife and major environmental concerns. The government closed the island for six months and the island underwent an extensive facelift. Since reopening in October 2018, the island has had tougher rules and regulations and a limit to the number of tourists allowed. Visitors must have a hotel pre-booked before getting on the boat to Boracay. Among the rules are bans on eating or drinking on the beach, smoking, fire dancing and commercial sandcastles. Touts will offer visitors a massage, boat ride, parasailing, kitesurfing, sail boating, hair braiding, island hopping and henna tattoo every 20 steps on the beach's 'sidewalk' path.",
         "shortDesc": "short desc",
         "date": "10 August 2021"
     },
     {
         "id": 2,
-        "category" : "Home",
+        "category" : "Travel",
         "title" : "Mount Fuji, Japan",
         "img":"https://media.cntraveler.com/photos/60596b398f4452dac88c59f8/master/w_2580%2Cc_limit/MtFuji-GettyImages-959111140.jpg",
-        "type":"Travel",
-        "description": "Mount Fuji, Japanese Fuji-san, also spelled Fujisan, also called Fujiyama or Fuji no Yama, highest mountain in Japan. It rises to 12,388 feet (3,776 metres) near the Pacific Ocean coast in Yamanashi and Shizuoka ken (prefectures) of central Honshu, about 60 miles (100 km) west of the Tokyo-Yokohama metropolitan area. It is a volcano that has been dormant since its last eruption, in 1707, but is still generally classified as active by geologists. The mountain is the major feature of Fuji-Hakone-Izu National Park (1936), and it is at the centre of a UNESCO World Heritage site designated in 2013. The origin of the mountain’s name is uncertain. It first appears as Fuji no Yama in Hitachi no kuni fudoki (713 CE), an early government record. Among the several theories about the source of the name is that it is derived from an Ainu term meaning “fire,” coupled with san, the Japanese word for “mountain.” The Chinese ideograms (kanji) now used to write Fuji connote more of a sense of good fortune or well-being. In the present day the Japanese typically refer to the mountain as Fujisan, whereas foreign visitors tend to refer to the mountain somewhat incorrectly as Mount Fujiyama, which translates to “Mount Fuji mountain” in the Japanese language.",
+        "type":"home",
+        "description": "Mount Fuji, Japanese Fuji-san, also spelled Fujisan, also called Fujiyama or Fuji no Yama, highest mountain in Japan. It rises to 12,388 feet (3,776 metres) near the Pacific Ocean coast in Yamanashi and Shizuoka ken (prefectures) of central Honshu, about 60 miles (100 km) west of the Tokyo-Yokohama metropolitan area. It is a volcano that has been dormant since its last eruption, in 1707, but is still generally classified as active by geologists. The mountain is the major feature of Fuji-Hakone-Izu National Park (1936), and it is at the centre of a UNESCO World Heritage site designated in 2013. ",
         "shortDesc": "short desc",
         "date": "25 November 2018"
     },
