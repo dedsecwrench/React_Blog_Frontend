@@ -1,0 +1,813 @@
+[
+    {
+        "id": 0,
+        "category" : "Home",
+        "title" : "Lake Wanaka, New Zealand",
+        "img":"https://media.cntraveler.com/photos/5a67511601a13140ff08e0b5/16:9/w_4992,h_2808,c_limit/GettyImages-602308886.jpg",
+        "type":"Travel",
+        "description":"Lake Wānaka is New Zealand's fourth-largest lake and the seat of the town of Wānaka in the Otago region. The lake is 278 meters above sea level, covers 192 km2 (74 sq mi), and is more than 300 m (980 ft) deep.'Wānaka' is the South Island dialect pronunciation of wānanga, which means 'the lore of the tohunga or priest' or a place of learning. Lake Wānaka lies at the heart of the Otago Lakes in the lower South Island of New Zealand. The township of Wānaka, which sits in a glacier-carved basin on the shores of the lake, is the gateway to Mt Aspiring National Park. Lake Hāwea is a 15-minute drive away, en route to the frontier town of Makarora, the last stop before the West Coast Glacier region. To the south is the historic Cardrona Valley, a popular scenic alpine route to neighbouring Queenstown. Lake Wānaka lies in a u-shaped valley formed by glacial erosion during the last ice age more than 10,000 years ago. It is fed by the Mātukituki and Makarora Rivers, and is the source of the Clutha River / Mata-Au.",
+        "shortDesc": "short desc",
+        "date": "12 February 2022"
+    },
+    {
+        "id": 1,
+        "category" : "Home",
+        "title" : "Boracay, Philippines",
+        "img":"https://media.cntraveler.com/photos/60595fbeaa174d1449ef6899/master/w_2580%2Cc_limit/Boracay-GettyImages-657020958.jpg",
+        "type":"Travel",
+        "description": "Boracay is a tropical island surrounded by stunning white sand beaches and clear blue waters located about an hour's flight from Cebu or Manila just off the larger Philippines island of Panay. For beach connoisseurs, Boracay competes with the best beaches in more popular destinations such as the Caribbean and the South Pacific as well as neighboring Thailand, Malaysia and Indonesia. Tourists will appreciate water sports and activities such as sailing, windsurfing, snorkeling, diving and jet skiing. The fun in Boracay doesn't end when the sun sets. The nightlife pulsates with many bars and restaurants serving food, drink and fun until the wee hours of dawn. Boracay is a small island in the central Philippines. It's known for its resorts and beaches. Along the west coast, White Beach is backed by palm trees, bars and restaurants. On the east coast, strong winds make Bulabog Beach a hub for water sports. Nearby, the observation deck on Mount Luho offers panoramic views over the island. Offshore, coral reefs and shipwrecks are home to diverse marine life. Boracay suffered from overdevelopment and inherited a negative reputation for dodgy nightlife and major environmental concerns. The government closed the island for six months and the island underwent an extensive facelift. Since reopening in October 2018, the island has had tougher rules and regulations and a limit to the number of tourists allowed. Visitors must have a hotel pre-booked before getting on the boat to Boracay. Among the rules are bans on eating or drinking on the beach, smoking, fire dancing and commercial sandcastles. Touts will offer visitors a massage, boat ride, parasailing, kitesurfing, sail boating, hair braiding, island hopping and henna tattoo every 20 steps on the beach's 'sidewalk' path.",
+        "shortDesc": "short desc",
+        "date": "10 August 2021"
+    },
+    {
+        "id": 2,
+        "category" : "Home",
+        "title" : "Mount Fuji, Japan",
+        "img":"https://media.cntraveler.com/photos/60596b398f4452dac88c59f8/master/w_2580%2Cc_limit/MtFuji-GettyImages-959111140.jpg",
+        "type":"Travel",
+        "description": "long desc",
+        "shortDesc": "short desc",
+        "date": "25 November 2018"
+    },
+    {
+        "id": 3,
+        "category" : "Travel",
+        "title" : "Milford Sound, New Zealand",
+        "img":"https://media.cntraveler.com/photos/605969ea7b588da524cfef48/master/w_2580%2Cc_limit/MilfordSound-GettyImages-503158728.jpg",
+        "type":"Travel",
+        "description": "Milford Sound / Piopiotahi is a fiord in the south west of New Zealand's South Island within Fiordland National Park, Piopiotahi (Milford Sound) Marine Reserve, and the Te Wahipounamu World Heritage site. It has been judged the world's top travel destination in an international survey (the 2008 Travelers' Choice Destinations Awards by TripAdvisor) and is acclaimed as New Zealand's most famous tourist destination. Rudyard Kipling had previously called it the eighth Wonder of the World. The fiord is most commonly accessed via road (State Highway 94) by tour coach, with the road terminating at a small village also called Milford Sound. As a fiord, Milford Sound was formed by a process of glaciation over millions of years. The village at the end of the fiord is also known as Milford Sound. Milford Sound runs 15 kilometres inland from the Tasman Sea at Dale Point (also named after a location close to Milford Haven in Wales)—the mouth of the fiord—and is surrounded by sheer rock faces that rise 1,200 metres (3,900 ft) or more on either side. Among the peaks are The Elephant at 1,517 metres (4,977 ft), said to resemble an elephant's head, and The Lion, 1,302 metres (4,272 ft), in the shape of a crouching lion",
+        "shortDesc": "short desc",
+        "date": "25 November 2018"
+    },
+    {
+        "id": 4,
+        "category" : "Travel",
+        "title" : "The Pitons, St. Lucia",
+        "img":"https://media.cntraveler.com/photos/5b1fe5b89301f42863770641/master/w_2580%2Cc_limit/St-Lucia_GettyImages-166565984.jpg",
+        "type":"Travel",
+        "description": "The scenery of St. Lucia can be summed up in one jaw-dropping site: a duo of striking spires known as the Pitons. The two volcanic peaks—Gros Piton and Petit Piton—are the most iconic landmarks on the island, and visitors can enjoy them in a variety of ways. A singular experience has to be actually hiking the mountains, an activity which takes the better part of a day; or if you prefer to keep your feet at sea level, plop a towel down at Sugar Beach, set dramatically (and conveniently) between the two Pitons.",
+        "shortDesc": "short desc",
+        "date": "18 August 2021"
+    },
+    {
+        "id": 5,
+        "category" : "Travel",
+        "title" : "Playa de Las Catedrales, Spain",
+        "img":"https://media.cntraveler.com/photos/60596d3b8f4452dac88c59fa/master/w_2580%2Cc_limit/Playa-de-las-Catedrales-GettyImages-1302661563.jpg",
+        "type":"Travel",
+        "description": "Located near Ribadeo, we find this spectacular beach that gives the Espacio Natural de As Catedrais its name. This beach is one of Spain´s top natural monuments. The natural domes at Playa de las Catedrales or Cathedral beach offer an unusual landscape of arches that make the visitor wonder about the force and beauty of nature. The real name of the beach is Playa de las Aguas Santas (beach of sacred waters) though you should better call it Playa de las Catedrales if you ask for directions since it is the way everybody knows it.It is not clear when the beach started to be called like this, though the reason becomes obvious after having enjoyed the 30 meter high cliffs that nature draw and humans emulated in some of Spain´s Gothic cathedrals (including the nearby Cathedral of Santiago de Compostela) . As a destination on Europe's Iberian Peninsula, Spain is renowned for its island paradises and semi-remote sand beaches. We're particularly big fans of Playa de Las Catedrales, a small stretch of sand on the Galician coast where natural stone arches form a walkable 'cathedral' at low tide.",
+        "shortDesc": "short desc",
+        "date": "20 March 2022"
+    },
+    {
+        "id": 6,
+        "category" : "Hollywood",
+        "title" : "Tom Holland, Andrew Garfield, & Tobey Maguire Recreate Famous ‘Spider-Man’ Meme in Full Costume",
+        "img":"https://pbs.twimg.com/media/FMSVRmaWUAIxwlC?format=jpg&name=900x900",
+        "type":"latest",
+        "description": "At last, the real-life Spider-Man meme has been released for all fans to see. Tom Holland, 25, Andrew Garfield, 38, and Tobey Maguire, 46, re-created the iconic image, which comes from the 1960’s Spider Man animated series, on the set of Spider-Man: No Way Home. On Feb. 23, Sony celebrated the blockbuster film’s upcoming digital and Blu-ray release by FINALLY unveiling the three actors executing the meme to perfection. The image shows Tom, Andrew, and Tobey in their superhero costumes standing in a circle and each pointing at the other two. “Of course, we got THE meme,” Sony captioned the post, which was shared on Twitter. As a treat to fans, Tom also shared the meme on his Instagram page and inserted three smirking emojis in the caption. The British actor had a huge smile on his face in the picture, while Andrew and Tobey looked a bit more serious. The trio absolutely nailed their take on the popular internet meme. Fans had been waiting a while for this one, and they were not disappointed with the outcome.",
+        "shortDesc": "At last, the real-life Spider-Man meme has been released for all fans to see. Tom Holland, 25, Andrew Garfield, 38, and Tobey Maguire, 46, re-created the iconic image, which comes from the 1960’s Spider Man animated series...",
+        "date": "17 December 2021"
+    },
+    {
+        "id": 7,
+        "category" : "Hollywood",
+        "title" : "No Time to Die producer Barbara Broccoli says it'll take some time to announce new James Bond",
+        "img":"https://www.pinkvilla.com/imageresize/james_bond_main.jpg?width=752&format=webp&t=pvorg",
+        "type":"latestStories",
+        "description": "As soon as Daniel Craig announced in 2019 that 'No Time to Die' would be his fifth and final film as international spy James Bond, rumours began. However, producer Barbara Broccoli says it will take some time to announce a new name.According to 'Variety', Tom Hardy, Henry Cavill, Idris Elba and even 'Euphoria' star Jacob Elordi have been whispered about in relation to the coveted role, and Lashana Lynch became the first woman to hold the 007 title when her role of Nomi took over Bond's position in the last film. Bond franchise producer Barbara Broccoli says ''it's going to take some time'' before Craig's replacement is named, reports 'Variety'.'It's a big decision,' Broccoli told Variety at the Longacre Theatre on Thursday at the opening night of 'Macbeth' on Broadway, which she is producing and in which Craig is also starring.'It's not just casting a role. It's about a whole rethink about where we're going. I'm just here celebrating one of the greatest actors on the planet, Daniel Craig.'Broccoli continued to praise Craig's acting chops, which she's supported as a producer for all five of his Bond films, from 'Casino Royale' in 2006 to 'No Time to Die' in 2021.She was also a producer on Craig's last appearance on stage, in Sam Gold's 2016 production of Shakespeare's 'Othello' at New York Theatre Workshop. Gold is directing Craig once again in his adaptation of the Scottish Play, in which Craig stars alongside Oscar nominee Ruth Negga.",
+        "shortDesc": "As soon as Daniel Craig announced in 2019 that 'No Time to Die' would be his fifth and final film as international spy James Bond, rumours began. However, producer Barbara Broccoli says it will take some time to announce a new name...",
+        "date": "1 May 2022"
+    },
+    {
+        "id": 8,
+        "category" : "Hollywood",
+        "title" : "James Corden opens up about the reason behind his exit from the Late Late Show",
+        "img":"https://www.pinkvilla.com/imageresize/james_corden_1.jpg?width=752&format=webp&t=pvorg",
+        "type":"LatestArticles",
+        "description": "Following his announcement to leave the Late Late Show, James Corden is opening up about his decision to quit the show after 8 years. The talk show host is getting ready to exit the show in the summer of 2023 and expressed his remorse, (It’s been a really hard decision to leave because I’m so immensely proud of the show.) During his chat with Deadline, via Us Weekly, Corden elaborated on the reason behind his sudden departure, (There’s still some other things that I feel I want to do.) He hinted at his future plans and shared, (I’d like to try and write. There’s some [stories] I’d like to tell. I’d like to see if I’m capable of it. The fact that it’s terrifying is the reason to do it.) However, the native English show host is still unsure if he and his family will move back to Britain as he noted, It’s something we think about and we talk about a lot, but we haven’t really made a decision on that yet. That’s the life side of things which we’ll figure out.",
+        "shortDesc": "Following his announcement to leave the Late Late Show, James Corden is opening up about his decision to quit the show after 8 years. The talk show host is getting ready to exit the show in the summer of 2023 and expressed his remorse...",
+        "date": "29 April 2022"
+    },
+    {
+        "id": 9,
+        "category" : "Hollywood",
+        "title" : "Friends 17 years later : The Reunion, a TV special in which they discussed the show. ",
+        "img":"https://www.pinkvilla.com/imageresize/friends_19.jpg?width=752&format=webp&t=pvorg",
+        "type":"latestTopPost",
+        "description": "Friends (1994-2004) is a television show that fans can't get enough of! We are in awe of the six lead characters, as they've truly been our best companions since 1994. Every scene, dialogue and behind-the-scenes videos never seem to bore us out despite having watched them on repeat. For people born in the 90s, Friends has been like a book on life lessons, and we thank Jennifer Aniston, Courteney Cox, Lisa Kudrow, Matt LeBlanc, Matthew Perry and David Schwimmer for that. When they said 'I'll be there for you,' they probably truly meant it! However, it has been 17 long years since the show has ended, and there have been two questions that fans have always asked over all these years, one being about the cast's possible reunion (which they have blessed us with quite recently), and another about the lead cast's whereabouts. As the show progressed, each character became a household name and each cast member a celebrity; they moved on to careers of varying success in motion pictures and television. The cast was renowned for its closeness and ensemble approach to their work on the series. The finale of Friends was watched by more than 52 million people. Joey (2004–06), a spin-off starring LeBlanc, was much less successful. The Friends theme song, “I’ll Be There for You,” performed by the Rembrandts, was a minor pop hit in its own right. In 2021 the cast returned for Friends: The Reunion, a TV special in which they discussed the show.",
+        "shortDesc": "Friends (1994-2004) is a television show that fans can't get enough of! We are in awe of the six lead characters, as they've truly been our best companions since 1994. Every scene, dialogue and behind-the-scenes videos...",
+        "date": "20 October 2021"
+    },
+    {
+        "id": 10,
+        "category" : "Hollywood",
+        "title" : "Tom Cruise reveals official title of Mission: Impossible 7 along with first trailer at CinemaCon",
+        "img":"https://www.pinkvilla.com/imageresize/tom_mission_impossible.jpg?width=752&format=webp&t=pvorg",
+        "type":"latestStories",
+        "description": "At CinemaCon, Tom Cruise debuted the first trailer and official title for Mission: Impossible 7, which included the first look at footage from the newest installment in the series. The film reintroduces Tom Cruise as IMF agent Ethan Hunt, elevating his stunt skills to new heights in the franchise's ever-expanding universe.During Paramount's CinemaCon presentation, as per Screenrant, Cruise appeared in a video message to the audience of exhibitors and journalists, unveiling the film's new title, Mission: Impossible: Dead Reckoning - Part 1, and presenting the first teaser. Several guests, including Erik Davis and Barry Hertz, expressed their views, which paint a picture of another Cruise-led stunt-heavy, action film. However, It's been a long time coming for the Mission: Impossible series to return after a two-year hiatus. The enthusiasm produced by this new footage, which is expected to be seen in front of Top Gun: Maverick, will, however, relight the flame for the long-running series, which has managed to lift the ante with each new installment. The two-part nature of the upcoming sequels should be intriguing, and will undoubtedly leave moviegoers with a cliffhanger on Mission: Impossible: Dead Reckoning - Part 1 while also extending the espionage series for at least two more films. Meanwhile, Mission: Impossible 7 wrapped production in September of last year, and Cruise and McQuarrie are now shooting Mission: Impossible 8. The casting suggests ties to the original Mission: Impossible film, implying that the unexpected turns might be significant. Aside from the plot's secrets, viewers have been enticed by some incredible stunt work performed by Cruise and his co-stars.",
+        "shortDesc": "At CinemaCon, Tom Cruise debuted the first trailer and official title for Mission: Impossible 7, which included the first look at footage from the newest installment in the series. The film reintroduces Tom Cruise as IMF agent Ethan Hunt...",
+        "date": "20 April 2022"
+    },
+    {
+        "id": 11,
+        "category" : "Hollywood",
+        "title" : "Here's why Johnny Depp is going viral on TikTok for handing his attorney a sticky note",
+        "img":"https://www.pinkvilla.com/imageresize/johnny_depp_3.jpg?width=752&format=webp&t=pvorg",
+        "type":"default",
+        "description": "The ongoing libel lawsuit between Johnny Depp and Amber Heard is all the rage on the internet. As netizens have become increasingly more interested in the case since the day it started live-broadcasting all the trials, fans of the actor have noticed an amusing moment between Depp and his attorney Benjamin Chew which went viral on TikTok. During the ninth day of the lawsuit, fans noticed Johnny scribbling away on a yellow sticky note which he then showed his attorney who was clearly impressed by Depp's handiwork and gave him a nod of approval before returning back to paying attention at the proceeding of the court. The viral video on TikTok has amassed more than 4 Million in under 18 hours, according to Just Jared. Supporters of the actor have been increasing by the day as the case opens up more and more for the public to form their own opinions on the matter. For those unfamiliar with the lawsuit, Tuesday marked the ninth day of the high profile and much-talked-about case which has been filed by Depp against ex-wife Amber Heard. Depp filed a USD 50 million lawsuit against her on charges of defamation caused by her alleged Op-ed in The Washington Post in 2018. The article published stated that Heard, the writer, was a victim of domestic violence. While she never mentioned Depp in the piece, his attorneys have argued that it was obvious who she implied it was about. Heard counter-sued the actor for USD 100 Million as her lawyers pointed out that the post was published as a matter of public interest.",
+        "shortDesc": "The ongoing libel lawsuit between Johnny Depp and Amber Heard is all the rage on the internet. As netizens have become increasingly more interested in the case since the day it started live-broadcasting all the trials...",
+        "date": "28 April 2022"
+    },
+    {
+        "id": 12,
+        "category" : "Hollywood",
+        "title" : "Spider-Man: Across the Spider-Verse: The sequel to feature 200 new characters",
+        "img":"https://www.pinkvilla.com/imageresize/spider_man_to_connect_with_venom_sonys_other_mcu_films_in_future_sony_exec_teases_exciting_opportunities.jpg?width=752&format=webp&t=pvorg",
+        "type":"default",
+        "description": "The never-before-seen footage of 'Spider-Man: Across the Spider-Verse', which is a sequel to 'Spider-Man: Into the Spider-Verse', was unveiled to a packed audience at CinemaCon, the annual exhibition trade show, which is currently underway in Las Vegas, reports 'Variety'.They're also upping the body count. While the first movie had 40 characters, the sequel has 240.After turning 'Spider-Man: Into the Spider-Verse' into a critical and commercial smash, the filmmakers hyped up a crowd of movie theatre owners by showing an exclusive look at the first 15 minutes of the follow-up 'Spider-Man: Across the Spider-Verse'. As per 'Variety', producers Phil Lord and Christopher Miller also announced the next instalment, previously denoted as 'Part II' will be titled 'Spider-Man: Beyond the Spider-Verse'. 'Across the Spider-Verse' continues the story of Miles Morales (voiced by Shameik Moore). Lord and Miller also teased some details about the sequel before unveiling it to the audience. The new movie will take place in six universes.Theatre owners were treated to footage so raw, the computer-generated graphics were not in their final form. Lord and Miller have plenty of time to touch up the animation. 'Across the Spider-Verse' is not set to release until June 2, 2023, and 'Beyond the Spider-Verse' is not opening until March 29, 2024.",
+        "shortDesc": "The never-before-seen footage of 'Spider-Man: Across the Spider-Verse', which is a sequel to 'Spider-Man: Into the Spider-Verse', was unveiled to a packed audience at CinemaCon, the annual exhibition trade show...",
+        "date": "20 April 2022"
+    },
+    {
+        "id": 13,
+        "category" : "Hollywood",
+        "title" : "Selena Gomez & Jennifer Stone get fans nostalgic by recreating their Wizards of Waverly Place rap",
+        "img":"https://www.pinkvilla.com/imageresize/selena_gomez_jennifer_stone.jpeg?width=752&format=webp&t=pvorg",
+        "type":"topPost",
+        "description": "It was a moment of delight for fans of Wizards of Waverly Place as Selena Gomez reunited with her co-star Jennifer Stone for her latest TikTok video. The singer and Stone recreated their characters' famous 'Hat rap' from the Disney show in a TikTok video and it left fans high on nostalgia to watch the duo come together again to perform the same. Sharing the video, in the captions Selena wrote, 'We had to.' The adorable video showcased the two co-stars performing their famous Crazy Hat rap from the show. The TikTok video showcased the duo lipsyncing to the song which says, 'What’s that? A hat? Crazy, funky, junky hat.' Gomez starred as Alex Russo on the Disney hit, which debuted in November 2007. Stone essayed the role of her best friend Harper Finkle on the show.Fans of Wizards of Waverly Place know well how many iconic moments Selena and Jennifer have shared onscreen as Alex and Harper and hence it was a huge delight for them to see the duo together again, performing this epic throwback. Wizards of Waverly Place also starred David Henrie as Justin and Jake T. Austin.  ",
+        "shortDesc": "It was a moment of delight for fans of Wizards of Waverly Place as Selena Gomez reunited with her co-star Jennifer Stone for her latest TikTok video. The singer and Stone recreated their characters",
+        "date": "26 April 2022"
+    },
+    {
+        "id": 14,
+        "category" : "Hollywood",
+        "title" : "Doctor Strange in the Multiverse of Madness: TWO major cameos revealed in the new TV spot",
+        "img":"https://www.pinkvilla.com/imageresize/doctor_strange_2_0.jpeg?width=752&format=webp&t=pvorg",
+        "type":"topPost",
+        "description": "Doctor Strange in the Multiverse of Madness is one of the most anticipated Marvel films of the year. Fans have been eagerly waiting to watch Benedict Cumberbatch's second solo outing as Doctor Strange and with Elizabeth Olsen's Wanda also teaming up with him in this film, the excitement has been double. The film will also have some major cameos.  While it has been speculated since the first trailer that Patrick Stewart's Professor X will be making an appearance in the film, a new TV spot has now confirmed not one but two major cameos including that of Professor X. In the new promo, we also see Baron Mordo (Chiwetel Ejiofor) presenting Doctor Strange in front of the Illuminati. Even though we don't see Patrick Stewart's face in the teaser, his voice and a hand seem to appear as the character seemingly approaches Strange while being on a wheelchair. Another cameo spotted by fans in the same TV spot also happens to be that of Captain Carter. It seems Hayley Atwell will appear as Captain Carter in the multiverse as a glimpse of the shield that was recently seen in the character's animated debut in What If...? is teased in one of the scenes. Fans also seem to have spotted Lashana Lynch's Maria Rambeau in the promo. It seems unlikely of Marvel to give out spoilers in the trailers but it seems this time they don't mind teasing fans a little more before the release of the much-awaited film. Doctor Strange in the Multiverse of Madness will see Stephen fight a version of himself as well as other multiverse creatures. The film directed by Sam Raimi is all set to release in theatres on May 6, 2022. ",
+        "shortDesc": "Doctor Strange in the Multiverse of Madness is one of the most anticipated Marvel films of the year. Fans have been eagerly waiting to watch Benedict Cumberbatch's second solo outing as Doctor Strange and with Elizabeth Olsen's Wanda...' ",
+        "date": "29 April 2022"
+    },
+    {
+        "id": 15,
+        "category" : "Hollywood",
+        "title" : "Jurassic World Dominion Trailer: Chris Pratt faces Giganotosaurus with help from OGs Laura Dern & Sam Neill",
+        "img":"https://www.pinkvilla.com/imageresize/jurassic_world_dominion.jpeg?width=752&format=webp&t=pvorg",
+        "type":"topPost",
+        "description": "A new trailer of Jurassic World Dominion was released recently and it gives a bigger glimpse of the scary Giganotosaurus. The new promo promises everything exciting for fans including a glimpse of the franchise's OGs Laura Dern, Sam Neill and Jeff Goldblum. The stunning visual effects also tease some big confrontational scenes between humans and the dinosaurs, thus promising that the film will be an adventurous ride. The new trailer also seems to showcase scenes that have callbacks to the original film, especially the one where Goldblum’s Malcolm is seen swinging a tree branch. The trailer opens with  Grady (Chris Pratt) realising his bond with Blue, the raptor he’s built may have changed after Blue seemingly has a baby, that gets kidnapped by humans. A distrustful Blue then turns on Grady, who sets out to get the baby raptor back. In the trailer, we also see Grady at one point telling Neill, Dern and Goldblum's characters that. he could use their 'expertise.' ",
+        "shortDesc": "A new trailer of Jurassic World Dominion was released recently and it gives a bigger glimpse of the scary Giganotosaurus. The new promo promises everything exciting for fans.. ",
+        "date": "25 April 2022"
+    },
+    {
+        "id": 16,
+        "category" : "Hollywood",
+        "title" : "Andrew Garfield confirms he's not 'retiring' from acting: I’m just having a holiday",
+        "img":"https://www.pinkvilla.com/imageresize/andrew_garfield_holiday.jpg?width=752&format=webp&t=pvorg",
+        "type":"default",
+        "description": "Andrew Garfield is explaining his statements about taking a break only a day after those comments spiralled into him quitting acting entirely. On The View on Thursday, the 38-year-old actor was promoting his new FX TV series Under the Banner of Heaven with co-star Daisy Edgar-Jones.He stressed that he is not quitting or retiring from acting, but rather taking a 'break' for 'a month or two.' As per ET Canada, Joy Behar, host of The View, wanted to 'put to rest a notion that you're quitting acting,' and Garfield first went along. “I’m retired, officially … I’m done,” he joked. “I have enough money to live in a camper van for the rest of my life.” However, he then clarified his statement saying, “No, I don’t know where that came from. I’m just having a holiday. I think people just make a story out of nothing. The actor's first remarks came in a Variety interview on Wednesday, when he said that he's been working nonstop for over a year, with films including The Eyes of Tammy Faye, Spider-Man: No Way Home, tick... tick... BOOM!, and Under the Banner of Heaven, and that he'd want to take a break. 'I’m going to rest for a little bit. I need to recalibrate and reconsider what I want to do next and who I want to be and just be a bit of a person for awhile,' Garfield said at the time.",
+        "shortDesc": "Andrew Garfield is explaining his statements about taking a break only a day after those comments spiralled into him quitting acting entirely. On The View on Thursday, the 38-year-old actor was promoting...",
+        "date": "29 April 2022"
+    },
+    {
+        "id": 17,
+        "category" : "Hollywood",
+        "title" : "Dwayne Johnson wishes to be the next Bond after Daniel Craig: Gotta be Bond. Don’t want to be a villain",
+        "img":"https://www.pinkvilla.com/imageresize/dwayne_johnson_13.jpg?width=752&format=webp&t=pvorg",
+        "type":"topPost",
+        "description": "Dwayne Johnson wants to play the next James Bond! During his interview with Esquire, the Red Notice star, 49, has opened up on the possibility of taking over from Daniel Craig as the 007 agent after the latter's successful stint in No Time To Die.Revealing his connection with the role, The Rock said that his grandfather, Peter Maivia was also a part of the franchise but he was a Bond villain in You Only Live Twice. 'My grandfather [Peter Maivia] was a Bond villain in You Only Live Twice with Sean Connery. Very, very cool,' Johnson recalled. The movie was released in 1967 as a part of the James Bond saga. Johnson admitted to being fascinated by his grandfather's achievement and revealed that he wanted to follow in his footsteps. About the kind of role he prefers, Johnson gave a clear idea stating that he wouldn't want to be a villain, instead, he would like to play the lead role. ''I would like to follow in his footsteps and be the next Bond. I don’t want to be a villain. Gotta be Bond,'' he added.",
+        "shortDesc": "Dwayne Johnson wants to play the next James Bond! During his interview with Esquire, the Red Notice star, 49, has opened up on the possibility of taking over from Daniel Craig as the 007 agent...",
+        "date": "21 November 2021"
+    },
+    {
+        "id": 18,
+        "category" : "Hollywood",
+        "title" : "Taylor Swift to be awarded a Doctorate degree in Fine Arts by New York University",
+        "img":"https://www.pinkvilla.com/imageresize/taylor_swift_to_be_awarded_a_doctorate_degree_in_fine_arts_by_new_york_university_0.jpg?width=752&format=webp&t=pvorg",
+        "type":"default",
+        "description": "Singer Taylor Swift will be awarded an honorary doctorate of fine arts by the New York University (NYU), and she will speak at commencement at Yankee Stadium. Swift will deliver her address and receive her honours from NYU along with the class of 2022 at the stadium on the morning of May 18, reports 'Variety'.Three graduating classes will be honoured that day.Swift will be part of what is described as a 'traditional' ceremony for the current graduating class on the morning of May 18. Separately, in the evening, the university will also be holding a 'double-header' commencement for the classes of 2020 and 2021, who weren't able to have a traditional ceremony earlier due to the pandemic..The official title that will be bestowed on Swift is Doctor of Fine Arts, honouris causa.Swift has previously been associated with NYU, as the university has conducted a class in her work, although she played no direct role in that particular curriculum.",
+        "shortDesc": "Singer Taylor Swift will be awarded an honorary doctorate of fine arts by the New York University (NYU), and she will speak at commencement at Yankee Stadium. Swift will deliver her address and receive... ",
+        "date": "29 March 2022"
+    },
+    {
+        "id": 19,
+        "category" : "Hollywood",
+        "title" : "Keanu Reeves' John Wick 4 pushed to a 2023 release; Avoids clash with Tom Cruise's Top Gun: Maverick",
+        "img":"https://www.pinkvilla.com/imageresize/keanu_reeves_1.jpeg?width=752&format=webp&t=pvorg",
+        "type":"default",
+        "description": "Keanu Reeves is done with one major release as The Matrix Resurrections premiered on December 22. As for his other big project, the fourth chapter in the John Wick franchise, it has now been confirmed by Lionsgate that the film has been postponed and will no longer release on May 27, 2022 but instead will hit the screens on March 24, 2023. Fans will have to wait a little longer for Reeves to return as the hitman on his quest for vengeance. With its new release date, Keanu Reeves' film will now avoid clashing with Tom Cruise's Top Gun: Maverick. It was announced back in September,  that Top Gun: Maverick will release on May 27, 2022, over the Memorial Day weekend while Cruise's other film,  Mission impossible 7 was pushed to September 30, 2022.The pandemic resulted in a lot of changes in film schedules. There was a time when an initial announcement had stated the possibility of The Matrix Resurrections and John Wick 4 releasing on the same day of May 21, 2021. Although with the delays caused by COVID-19, The Matrix 4 finally hit the screens in December this year. As for John Wick 4, the film will see Reeves return alongside Donnie Yen, Laurence Fishburne, Lance Reddick, Bill Skarsgård, Rina Sawayama, Shamier Anderson, and Ian McShane. The film is being directed by Chad Stahelski with a screenplay written by Michael Finch and Shay Hatten along with Stahelski. Reeves began filming for John Wick 4 in June this year after wrapping up the shoot of Matrix Resurrections.  ",
+        "shortDesc": "Keanu Reeves is done with one major release as The Matrix Resurrections premiered on December 22. As for his other big project, the fourth chapter in the John Wick franchise, it has now been confirmed...",
+        "date": "23 December 2021"
+    },
+    {
+        "id": 20,
+        "category" : "Hollywood",
+        "title" : "Will Smith Slaps Chris Rock During The Oscars After Making Jada Pinkett-Smith Joke",
+        "img":"https://hollywoodlife.com/wp-content/uploads/2022/03/will-smith-chris-rock-punch-oscars-2022-embed1.jpg",
+        "type":"default",
+        "description": "After Chris Rock made a joke about Jada Pinkett-Smith being 'G.I. Jane' because of her bald head at the Oscars, Will Smith ran up on stage and seemingly slapped him. Chris Rock got slapped by Will Smith at the 94th annual Academy Awards on March 22, after he made a cruel joke about Jada Pinkett-Smith starring in a potential sequel for G.I. Jane because of her bald head.It all started when Chris came out on stage to present an award, and while he was standing in front of the audience, he took a random dig at Jada and her bald head. At first, Will and Jada, who sat close to the stage, both laughed, but within a matter of seconds, Will was up on stage, walking towards Chris. And once they came face-to-face, Will seemingly slapped the comedian.After Chris and Will finished their heated exchange, the comedian carried on without making too much of a fuss about the situation. And after reading the winner of his award out loud, he exited the stage. But he managed to call it the “greatest night in the history of television” before doing so.",
+        "shortDesc": "After Chris Rock made a joke about Jada Pinkett-Smith being 'G.I. Jane' because of her bald head at the Oscars, Will Smith ran up on stage and seemingly slapped him. Chris Rock got slapped by Will Smith at the...",
+        "date": "28 March 2022"
+    },
+    {
+        "id": 21,
+        "category" : "Bollywood",
+        "title" : "Jersey Movie Review: Shahid Kapoor rises to roar and revolt as a cricketer in this sports drama",
+        "img":"https://www.pinkvilla.com/imageresize/shahid-kapoor-jersey-movie-review-1.jpg?width=752&format=webp&t=pvorg",
+        "type":"topPost",
+        "description": "Jersey belongs to Shahid Kapoor. Time and again, he keeps proving why he is among the best actors of India as he is simply brilliant as Arjun Talwar. He underplays himself in the first half and brings in the inherent swag in the flashback portions. While the film promos gave a hangover of Kabir Singh in his performance, there is a stark difference between the two worlds. Watch out for his emotional outburst at a railway station in the early portions of second half when he makes it to the Punjab cricket team. Mrunal Thakur is sincere in her performance but deserved a better sketched out character. Some of the core conflicts of the film between the husband and wife are devoid of a thread that brings them all together. Pankaj Kapur as coach, Madhav Sharma, is reliable as always. He has some lighthearted moments with his son, and their comfort level on the screen is a treat to watch. Ronit Kamra as Arjun and Vidya’s kid, Karan, is decent for his role. The rest of the ensemble do well. All in all, Jersey is a well-intentioned sport drama, which much like the original, has heart at its right place. It rides on superlative performance by Shahid Kapoor, who rises to roar and revolt as a cricketer. While the pace is an issue, especially in the first half, and the runtime could have been kept under check, the cricketing sequences and the emotional core in the finale leads to a satisfying experience. It’s a faithful remake staying true to the world of the original.",
+        "shortDesc": "Jersey belongs to Shahid Kapoor. Time and again, he keeps proving why he is among the best actors of India as he is simply brilliant as Arjun Talwar. He underplays himself in the first half and brings in the inherent swag in the flashback portions...",
+        "date": "22 April 2022"
+    },
+    {
+        "id": 22,
+        "category" : "Bollywood",
+        "title" : "Kartik Aaryan reacts to comparison with Akshay Kumar in Bhool Bhulaiyaa 2: Tried our best",
+        "img":"https://images.bhaskarassets.com/thumb/1800x1800/web2images/521/2019/10/09/0521_kartik1.jpg",
+        "type":"latest",
+        "description": "The trailer for the horror-comedy Bhool Bhulaiyaa 2, starring Kartik Aaryan, Kiara Advani, and Tabu, in the leading roles was finally released on Tuesday. It is a standalone sequel to Priyadarshan's 2007 horror-comedy Bhool Bhulaiyaa, which features Akshay Kumar, Shiney Ahuja, and Vidya Balan in the lead roles. Now, at the trailer launch event, the Sonu Ke Titu Ki Sweety actor opened up on comparisons with Akshay Kumar in the movie. Kartik said, 'I can't compare because it's too big a shoe to fill. I had loved him (Akshay Kumar) in Bhool Bhulaiyaa 1, and have grown up watching him. It's better not to compare, I love him as an actor. We have tried our best to do it our way. But this is a new film, lot of new elements. I hope people will love it in his own dynamic. Comparisons will happen, but I hope Bhool Bhulaiyaa 2 will be remembered as a new film.' Meanwhile, the film also features Rajpal Yadav, Sanjay Mishra, Amar Upadhyay, Milind Gunaji, and Rajesh Kumar in pivotal roles. Directed by Anees Bazmee and produced by Bhushan Kumar, Murad Khetani, Anjum Khetani, and Krishan Kumar under the banner of T-Series and Cine 1 Studios. It is scheduled to hit the screens on May 20, 2022. ",
+        "shortDesc": "The trailer for the horror-comedy Bhool Bhulaiyaa 2, starring Kartik Aaryan, Kiara Advani, and Tabu, in the leading roles was finally released on Tuesday. It is a standalone sequel to Priyadarshan's 2007 horror-comedy Bhool Bhulaiyaa...",
+        "date": "27 April 2022"
+    },
+    {
+        "id": 23,
+        "category" : "Bollywood",
+        "title" : "'Thank god you were born': Virat Kohli pens sweetest birthday wish for Anushka Sharma",
+        "img":"https://www.pinkvilla.com/imageresize/entertainment_highlights_jan_23.jpg?width=752&format=jpg&t=pvorg",
+        "type":"default",
+        "description": "Anushka Sharma celebrates her 34th birthday today and wishes have been pouring in for the actress. While wishes continue to storm the internet, her husband and cricketer Virat Kohli's birthday wish for his wife has won our hearts. He took to his social media handle and penned an endearing message for her. He wrote: 'Thank god you were born. I don’t know what I would do without you. You’re truly beautiful inside out. Had a great afternoon with the sweetest folks around' To which, Anushka reacted to Virat's post and commented: 'Stole my words and my heart (CHEEESSSSYYYYY)'.Virat also shared a glimpse of Anushka's birthday get-together. In the first photo, the Rab Ne Bana Di Jodi actress looks stunning as she donned a white dress. Virat, on the other hand, looked dapper as ever in his plain t-shirt and pants. In the second photo, the couple is seen happily posing for the camera with their friends.",
+        "shortDesc": "Anushka Sharma celebrates her 34th birthday today and wishes have been pouring in for the actress. While wishes continue to storm the internet, her husband and cricketer Virat Kohli's birthday wish for his wife has won our hearts...",
+        "date": "1 May 2022"
+    },
+    {
+        "id": 24,
+        "category" : "Bollywood",
+        "title" : "Deepika Padukone, Ananya Panday, Siddhant & others celebrate Gehraiyaan’s success",
+        "img":"https://assets.telegraphindia.com/telegraph/2022/Feb/1645470256_gehraiyaan.jpg",
+        "type":"LatestArticles",
+        "description": "The star cast and makers of Gehraiyaan are currently basking in the success of the movie. Fans liked the performances of Deepika Padukone, Ananya Panday, Siddhant Chaturvedi and Dhairya Karwa in Shakun Batra’s directorial. On February 20, they got together to celebrate the huge success of the film. To note, the film was released on February 10 on the OTT platform Amazon Prime Video. The songs of the film also garnered lots of appreciation from the audience and well-wishers.Producer Karan Johar shared an inside photo from the success party. In the photo, Deepika, Ananya, Siddhant, Dhairya and Shakun Batra were seen posing together and smiling for the photo. They all looked glamorous and stunning in the picture. Deepika was wearing an all-white assemble and Ananya Panday opted for a pink co-ord set. Siddhant and Dhairya were also in their best attires. The photo was also reshared by Ananya and Siddhant on the story sections of their Instagram handles. Earlier, Ranveer Singh too had praised Deepika Padukone’s performance after watching Gehraiyaan. During an Instagram live session, he said, “I saw Gehraiyaan and Oh My God! What my wife has done! What a performance! As an actor when you see another actor giving so much, it feels like wow. The amount she’s given and her soul into it. I have worked with Shakun before and with Deepika too. I used to tell her that she is Shakun’s type of actor and they should collaborate as their synergy will create something special. So, when the opportunity came, I encouraged her to go for it. And, what they have created together. It’s one hell of a performance. I was blown and will be proud of it for the rest of my life. She lived this character and every moment and you can tell that too. Her character Alisha was really difficult to go in. Unarguably, one of her most nuanced performances.”",
+        "shortDesc": "The star cast and makers of Gehraiyaan are currently basking in the success of the movie. Fans liked the performances of Deepika Padukone, Ananya Panday, Siddhant Chaturvedi and Dhairya Karwa in Shakun Batra’s directorial...",
+        "date": "1 May 2022"
+    },
+    {
+        "id": 25,
+        "category" : "Bollywood",
+        "title" : "Katrina Kaif celebrates Vicky Kaushal’s big win at IIFA 2022 Technical Awards",
+        "img":"https://www.pinkvilla.com/imageresize/katrina_vicky_iifa_main.jpg?width=752&format=webp&t=pvorg",
+        "type":"default",
+        "description": "As Vicky Kaushal's film Sardar Udham won the International Indian Film Academy 2022's Technical Awards in the three categories on Tuesday, his proud wife, Katrina Kaif happily rejoiced in her better half's success. The 'Tiger 3' actress took to her social media handle and shared a news article that mentioned Vicky’s film leading at IIFA 2022's Technical Awards. Along with it, Katrina dropped heart emoticons and tagged Vicky in the post. Right after she applauded her husband, it grabbed the ‘Sardar Udham’ actor’s attention and he expressed gratitude while resharing the post on his Instagram.Directed by Shoojit Sircar, the film won three Technical Awards at IIFA 2022 today. It bagged recognition in the Best Cinematography, Editing, and Special Effects categories. The IIFA 2022's Technical Awards ceremony is slated to take place on May 20th and 21st, 2022, however, the Technical Award winners were announced today, and as expected, Vicky Kaushal’s film led with the most wins, followed by Sara Ali Khan, Dhanush, and Akshay Kumar’s Atrangi Re that won two awards for Best Choreography and Best Background score. To note, the award ceremony will take place at Yas Island in Abu Dhabi on May 20th and 21st.",
+        "shortDesc": "As Vicky Kaushal's film Sardar Udham won the International Indian Film Academy 2022's Technical Awards in the three categories on Tuesday, his proud wife, Katrina Kaif happily rejoiced in her better half's success...",
+        "date": "27 April 2022"
+    },
+    {
+        "id": 26,
+        "category" : "Bollywood",
+        "title" : "Neetu Kapoor on Ranbir Kapoor getting admired in the industry: That's my upbringing, I feel proud",
+        "img":"https://www.pinkvilla.com/imageresize/ranbir_neetu_main.jpg?width=752&format=webp&t=pvorg",
+        "type":"default",
+        "description": "Neetu Kapoor shares a sweet bond with his son Ranbir Kapoor. They are inseparable. Neetu never misses a chance to showcase her love for her beloved son. On the other hand, Ranbir also enjoys a massive fan following on social media since his debut in the 2007 film Saawariya. There is no doubt that he is getting admired in the entertainment industry as well. Recently, in an interview with Bollywood Hungama, Neetu Kapoor opened up on Ranbir Kapoor enjoying admiration in the industry. She said, “I feel really proud…to be a good human being is what I feel proud of. This is what I have contributed to him, that’s my upbringing. So, I feel really happy when someone says he is a good human being… My children got a good upbringing. They respect elders, are nice to people, and do not hurt anyone. My husband may be rash in talking but he was a good human being.” ",
+        "shortDesc": "Neetu Kapoor shares a sweet bond with his son Ranbir Kapoor. They are inseparable. Neetu never misses a chance to showcase her love for her beloved son. On the other hand, Ranbir also enjoys a massive fan following on...",
+        "date": "10 April 2022"
+    },
+    {
+        "id": 27,
+        "category" : "Bollywood",
+        "title" : "Neetu Kapoor reveals how Alia Bhatt is doing after wedding with Ranbir Kapoor",
+        "img":"https://www.pinkvilla.com/imageresize/neetu_on_how_alia_is_doing_after_wedding.jpg?width=752&format=webp&t=pvorg",
+        "type":"default",
+        "description": "One of the most awaited weddings in Bollywood, Alia Bhatt, and Ranbir Kapoor's nuptials took place on April 14, and well, fans of the two are still not over the excitement. Neetu Kapoor, who had been shooting for her dance reality show till Ranbir and Alia’s wedding day, had also left everyone guessing about her son's wedding date till the ceremony began on 14th April at Vastu. Now, it has been over 10 days since Ranbir and Alia's wedding and Neetu was spotted on the sets of her dance reality show. Hence, the paps caught up with the new mother-in-law to ask about daughter-in-law Alia's wellbeing. In a video going viral on social media, Neetu Kapoor is seen posing for the paps in a gorgeous green outfit. A pap asked her, 'Bahu Kaise hai?' To this, Neetu replied in an ecstatic manner and said, 'Bahu Badhia Hai.' She smiled as she said that her daughter-in-law Alia is doing well after the wedding to Ranbir. During one of the episodes of the dance reality show, Neetu had said that she wanted her daughter-in-law Alia to rule the house. Photos from Ranbir and Alia's wedding continue to trend as and when any family member shares them on social media. ",
+        "shortDesc": "One of the most awaited weddings in Bollywood, Alia Bhatt, and Ranbir Kapoor's nuptials took place on April 14, and well, fans of the two are still not over the excitement. Neetu Kapoor, who had been shooting for her...",
+        "date": "28 April 2022"
+    },
+    {
+        "id": 28,
+        "category" : "Bollywood",
+        "title" : "Actor Dharmendra admitted in hospital, getting better now: Report",
+        "img":"https://www.pinkvilla.com/imageresize/dharmendra_sick_main.jpg?width=752&format=webp&t=pvorg",
+        "type":"default",
+        "description": "Veteran actor Dharmendra got admitted to a private hospital in Mumbai, according to reports. Dharmendra was last seen in the 2018 action-comedy film Yamala Pagal Deewana Phir Se. The movie also stars Bobby Deol and Sunny Deol and is directed by Navaniat Singh.The veteran actor had fallen sick last week as per a report in the Indian Express. As stated by the source. “But he is getting better. He is doing fine. He will be given a discharge in a couple of days, by Tuesday or so. There’s nothing to worry about.”  To note, Dharmendra is quite active on social media, and last month, he shared a video on Twitter giving a quirky twist to his iconic song from his classic movie Sholay - ‘Yeh Dosti Hum Nahi Todenge’ - and it winning hearts for all the right reasons. The quirky video featured a group of men trying to sit on a bike together. While four of them had managed to sit on the bike, it was the fifth one who was seen trying to make his way to sit on the bike. But giving a perfect example of friendship, the three of them (except the rider), held the fifth person in their arms as they drove away. The video came with a background music of Dharmendra and Amitabh Bachchan’s iconic number ‘Yeh Dosti Hum Nahi Todenge’. The legendary actor captioned the video as, “Dosto…… Dosti ki haden nahin hoti ……”",
+        "shortDesc": "Veteran actor Dharmendra got admitted to a private hospital in Mumbai, according to reports. Dharmendra was last seen in the 2018 action-comedy film Yamala Pagal Deewana Phir Se. The movie also stars Bobby Deol and Sunny Deol...",
+        "date": "1 May 2022"
+    },
+    {
+        "id": 29,
+        "category" : "Bollywood",
+        "title" : "Amitabh Bachchan shares fun PIC with Uunchai co-stars Anupam Kher, Boman Irani",
+        "img":"https://www.pinkvilla.com/imageresize/amitabh_anupam_boman_main.jpg?width=752&format=webp&t=pvorg",
+        "type":"default",
+        "description": "Amitabh Bachchan needs no introduction. One of Bollywood's biggest stars, Mr. Bachchan frequently informs his fans about his current projects and personal life via social media and his own blog. His fans adore his updates and eagerly await them. The actor will be next seen in Sooraj Barjatya’s Uunchai. He often shares behind-the-scenes (BTS) pictures from the sets of his upcoming film. Speaking of which, the superstar took to Instagram to share a fun photo with his co-stars Anupam Kher and Boman Irani. In the photo, the trio can be seen holding each other by the shoulders. Big B did the kick pose, while Kher and Irani gave comical expressions. While sharing the photo, Bachchan wrote in Hindi, “Ye umar ka takaja hai; Hairatangez nazara hai.” As soon as he posted the photo, fans rushed to drop sweet comments in the comment section. A fan wrote, “Legends in a frame.” Others dropped heart emoticons in the comment section.",
+        "shortDesc": "Amitabh Bachchan needs no introduction. One of Bollywood's biggest stars, Mr. Bachchan frequently informs his fans about his current projects and personal life via social media and his own blog. His fans adore ...",
+        "date": "2 May 2022"
+    },
+    {
+        "id": 30,
+        "category" : "Bollywood",
+        "title" : "Why Rishi Kapoor and Irrfan Khan will remain unforgettable",
+        "img":"https://www.pinkvilla.com/imageresize/irrfan_khan_rishi_kapoor_main.jpg?width=752&format=webp&t=pvorg",
+        "type":"default",
+        "description": "Rishi Kapoor and Irrfan Khan- Unlike in method. Alike in madness. So, when the two thespians faced each other and the camera for Nikkhil Advani’s D-Day, not only did it spark a spellbinding cinematic conversation, it also spawned a great bonhomie off it. The select room at the Taj, Ahmedabad, where they would wind down with the unit after a challenging day at work, was privy to their free-flowing banter – ranging from Rishi’s formidable legacy to Irrfan’s journey from nowhere. An ardent listener, amongst the team, was actor Chandan Roy Sanyal. In that ‘vintage room’, where the two stalwarts, toasted memories and moments, Chandan picked up pointers for his own journey.A few years later, sadly both Rishi and Irrfan were diagnosed with cancer and passed away one day apart from each other. The Universe had indeed conspired to bring them together just as it had planned their exit. Two pilgrims crossed paths to leave behind souvenirs for Chandan Roy Sanyal to be cherished forever.",
+        "shortDesc": "Rishi Kapoor and Irrfan Khan- Unlike in method. Alike in madness. So, when the two thespians faced each other and the camera for Nikkhil Advani’s D-Day, not only did it spark a spellbinding cinematic conversation...",
+        "date": "30 April 2022"
+    },
+    {
+        "id": 31,
+        "category" : "Bollywood",
+        "title" : "Is Ranveer Singh's Jayeshbhai Jordaar India's answer to Charlie Chaplin?",
+        "img":"https://www.pinkvilla.com/imageresize/ranveer-singh-charlie-chaplin.jpg?width=752&format=webp&t=pvorg",
+        "type":"default",
+        "description": "Ranveer Singh is considered to be one of the finest actors in today’s time who has the ability to shift from one world to the other with utmost conviction. The actor is currently gearing up for the release of the Yash Raj Production, Jayeshbhai Jordaar, which marks the directorial debut of Divyang Thakkar. There has been ample of secrecy maintained around the project, however, Pinkvilla has an interesting update on this social comedy.Ranveer Singh plays the titular role of Jayeshbhai and will be seen in a never seen before avatar. A lot of thought process went behind creating this quirky character. The makers seem to have taken a leaf out of iconic actor of world cinema, Charlie Chaplin. The look as also the character traits of Ranveer Singh is inspired by Charlie Chaplin. It’s a special character for all the stakeholders and the assets unvieled in the time to come will give the audience a glimpse of this special world. That’s not all, some of the quirks adapted by Ranveer for the role also come from Charlie Chaplin. 'Ranveer Singh and the ones who close to the actor are already going gaga about the film and the character,” the source added. The trailer is expected to be launched in a week’s time.",
+        "shortDesc": "Ranveer Singh is considered to be one of the finest actors in today’s time who has the ability to shift from one world to the other with utmost conviction. The actor is currently gearing up for the release of the Yash...",
+        "date": "16 April 2022"
+    },
+    {
+        "id": 32,
+        "category" : "Bollywood",
+        "title" : "Sonu Sood calls Akshay Kumar starrer Prithviraj a special film; Spills beans about Simmba 2",
+        "img":"https://filmfare.wwmindia.com/content/2021/apr/sonusood41619791079.jpg",
+        "type":"default",
+        "description": "Sonu Sood has been one of the most talked about actors in Bollywood. He has carved a niche for himself with his acting skills and even went on to win millions of hearts with his social work during the COVID 19 lockdown. The Jodha Akbar actor is also making headlines these days for his interesting lineup of films which includes Prithviraj with Akshay Kumar, Manushi Chhillar and Sanjay Dutt. In an exclusive conversation with Pinkvilla, Sonu was all praises for Prithviraj and said called it a special experience. To note, he will be seen playing the role of Chand Bardai. He said, “I love period films. It’s a different challenge and Dr Chandrapakash Dwivedi is a brilliant guy. His knowledge about history and his execution is brilliant”. Sonu also got candid about working with Chiranjeevi in Acharya. The movie will mark his first collaboration with the South superstar. He stated, “He is a great guy, very humble, very grounded”. Sonu even stated that Acharya was shot in two phases- pre-lockdown and post-lockdown and how the action sequences were changed following his massive popularity during the lockdown. “Everyone said that ‘Sonu, people love you, nobody is going to touch you in action scenes’. I think they were very kind. It was fun and Acharya is a beautiful film”.",
+        "shortDesc": "Sonu Sood has been one of the most talked about actors in Bollywood. He has carved a niche for himself with his acting skills and even went on to win millions of hearts with his social work during the COVID 19 lockdown...",
+        "date": "16 April 2022"
+    },
+    {
+        "id": 33,
+        "category" : "Bollywood",
+        "title" : "'Feroz Khan could even charm a tree': Writer Suparn Verma celebrates mentor on his 13th death anniversary",
+        "img":"https://www.pinkvilla.com/imageresize/feroz_khan_death_anniversary_main.jpg?width=752&format=webp&t=pvorg",
+        "type":"topPost",
+        "description": "Co-writer of Feroz Khan’s Janasheen, and more recently co-director of Family Man 2, Suparn Verma, shares memories of the late actor/filmmaker on his 13th death anniversary. My earliest memory of Feroz Khan saab is that of watching the film Qurbani (1980) as a kid and dancing to my own version of the title song Qurbani qurbani, Allah ko pyaari hai qurbani… Through time, I watched his films Apradh (1970), Khote Sikkay (1974), Geeta Mera Naam (1974), Dharmatma (1975) … aired on DD1 and DD2. I was fascinated by his cowboy act. I thought he was a dude. His persona was mesmerizing. In the early 2000s, I was writing a couple of films for Ram Gopal Varma. One day Ramu mentioned that Feroz Khan was working on Janasheen (2003). Khan saab already had a writer on board but he wanted someone to give him a fresh perspective. I went to meet Khan saab. I heard his story idea and liked it. But since I was doing a job as a journalist and also writing for Ramu, I said I didn’t have the time to write for him.Khan saab laughed and said, “Okay let’s meet for lunch next week.” I went over the following Sunday. He had prepared yummy Afghani chicken. We discussed the film, world cinema, Oscar Wilde, everything under the sun… Then he asked me again whether I’d write for him. Once again, I declined saying I was busy. He said, “Okay let’s have another lunch next Sunday.” By the fourth lunch, I was completely in love with him.",
+        "shortDesc": "Co-writer of Feroz Khan’s Janasheen, and more recently co-director of Family Man 2, Suparn Verma, shares memories of the late actor/filmmaker on his 13th death...",
+        "date": "27 April 2022"
+    },
+    {
+        "id": 34,
+        "category" : "Bollywood",
+        "title" : "Shraddha Kapoor says 'Aarohi' changed everything for her as Aashiqui 2 clocks 9 years",
+        "img":"https://media.newstrack.in/uploads/entertainment/bollywood-news/Nov/29/big_thumb/Ashiqu_600x400_5a1e73d34105e.jpg",
+        "type":"topPost",
+        "description": "Shraddha Kapoor and Aditya Roy Kapur made our hearts swoon almost 9 years ago as their film Aashiqui 2 released. Today, on the film's milestone year, Shraddha Kapoor got candid about playing her character 'Aarohi' and how it changed things for her. Shraddha described the film as a life changing opportunity and thanked everyone for the love that is still pouring in. Speaking about her journey on the film's 9th year, Shraddha said, 'Aarohi came in my life, and changed everything. I am forever grateful and thankful to each and everyone who gave so much love to me as Aarohi. It feels motivating when people remember the film, it's songs and the story, even after long.' ",
+        "shortDesc": "Shraddha Kapoor and Aditya Roy Kapur made our hearts swoon almost 9 years ago as their film Aashiqui 2 released. Today, on the film's milestone year, Shraddha Kapoor got candid about playing her character 'Aarohi' and...",
+        "date": "15 April 2022"
+    },
+    {
+        "id": 35,
+        "category" : "Bollywood",
+        "title" : "The Past Blast: When Amitabh Bachchan, Dharmendra and Vinod Khanna were to play the three Musketeer's",
+        "img":"https://www.pinkvilla.com/imageresize/amitabh-bachchan-dharmendra.jpg?width=752&format=webp&t=pvorg",
+        "type":"topPost",
+        "description": "Amitabh Bachchan and Dharmendra have acted together in multiple films including some iconic ones like Chupke Chupke and Sholay. Both Big B and Dharmendra are named among the biggest superstars of Indian Cinema, with unparalleled fan following across the nation in their peak era. Back in the 1970s, multiple producers tried to bring the duo together, however, very few succeeded. Not many are aware of the fact that when Sholay was in the making, the writer duo of Salim Khan and Javed Akhtar along with GP Sippy and Ramesh Sippy were planning another film with Dharmendra and Bachchan. The creative team was working on a Hindi adaptation of Hollywood classic The Three Musketeer’s and had even locked the leading men in Dharmendra, Amitabh Bachchan and Sanjeev Kumar. The film was titled Teen Farishtey. Just when everything was moving smooth, there was a delay in shooting schedule of Sholay, which resulted in the date diaries of Big B and Dharmendra going haywire. ",
+        "shortDesc": "Amitabh Bachchan and Dharmendra have acted together in multiple films including some iconic ones like Chupke Chupke and Sholay. Both Big B and Dharmendra are named among the biggest superstars of Indian Cinema... ",
+        "date": "17 August 2021"
+    },
+    {
+        "id": 36,
+        "category" : "Technology",
+        "title" : "Baidu and Pony.ai become first robotaxi services to operate without safety drivers in Beijing",
+        "img":"https://cdn.i-scmp.com/sites/default/files/d8/images/canvas/2021/11/25/f16c76b1-23ba-428d-ae27-259758c68aed_c2bcffbb.jpg",
+        "type":"topPost",
+        "description": "Baidu and Pony.ai have been given permission to operate their autonomous vehicles without safety drivers in Beijing, a first for robotaxi services in China (via CNBC). Although both companies now no longer need a staff member in the driver’s seat, they’ll still need a supervisor present somewhere in the vehicle. Baidu and Pony.ai can’t operate throughout the entire city of Beijing just yet — they’re limited to a 60 square kilometer (23.1 square mile) area in Yizhuang, Beijing, the home of about 300,000 residents. While Baidu can deploy just 10 autonomous vehicles in the area, CNBC says Pony.ai can only operate four. Both companies have plans to expand the number of vehicles on the road (with Baidu shooting for 30), but it’s unclear how soon that will happen.",
+        "shortDesc": "Baidu and Pony.ai have been given permission to operate their autonomous vehicles without safety drivers in Beijing, a first for robotaxi services in China (via CNBC). Although both companies now no longer need a staff...",
+        "date": "30 April 2022"
+    },
+    {
+        "id": 37,
+        "category" : "Technology",
+        "title" : "Telegram now lets users send cryptocurrency through TON blockchain spinoff",
+        "img":"https://techweez.com/wp-content/uploads/2016/05/Telegram-Messenger1.jpg",
+        "type":"topPost",
+        "description": "Telegram now lets users send Toncoin, the cryptocurrency built off of Telegram’s abandoned blockchain effort, directly from chats within the messaging app (via Protocol). In a post on Twitter, TON (The Open Network), announced that Telegram now supports Toncoin transactions with no fees attached. TON included a short video showing how crypto transactions work on the platform. To get started, you’ll have to add Telegram’s Wallet bot to your attachment menu, which allows you to “purchase cryptocurrency by bank card, exchange, and transfer to other wallets.” When you’re ready to send crypto, you can pull up the Wallet from your attachment menu while in a chat, enter the amount of Toncoin you want to send, confirm all the details, and then hit “Send.” Your recipient will receive the Toncoin through the chat.",
+        "shortDesc": "Telegram now lets users send Toncoin, the cryptocurrency built off of Telegram’s abandoned blockchain effort, directly from chats within the messaging app (via Protocol). In a post on Twitter, TON (The Open Network)...",
+        "date": "30 April 2022"
+    },
+    {
+        "id": 38,
+        "category" : "Technology",
+        "title" : "Sony clamps down on PlayStation Now subscription stacking to protect its upcoming Premium service",
+        "img":"https://cdn.vox-cdn.com/thumbor/km-Ai004BkgnkHOhtMQvpXcSBcM=/0x0:2040x1360/1820x1213/filters:focal(857x517:1183x843):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/70813081/playstation_plus_logo_blog.0.jpg",
+        "type":"topPost",
+        "description": "Sony has updated its PlayStation Plus FAQ page (tucked away at the bottom here) and is clamping down further on loopholes that gave users early discounts on its upcoming PlayStation Plus Premium service. It’s also pausing the activation of PlayStation Plus and Now vouchers for current subscribers until after its new service rolls out in June, and there’s even an official conversion chart showing the value of those vouchers for its upcoming three services; PlayStation Plus Essentials, Extra, and Premium. After Sony announced its plan to restructure PlayStation Plus into a new three-tiered service to further compete with Microsoft’s and Nintendo’s services, things were slightly vague about how the conversion to the new tiers will work. Users began stacking prepaid subscriptions to PlayStation Now, Sony’s cloud streaming service on consoles and PC, hoping the $59.99 per-year service would convert to the upcoming $119.99 per-year PlayStation Plus Premium. Sony was quick to stop many people from exploiting that discount, but it couldn’t keep people from buying and redeeming the cards for some sort of service — and those remaining PS Now voucher cards will give you at least a partial PlayStation Plus Premium subscription.  At least, they will starting in June. Sony is now keeping many people from redeeming prepaid vouchers until after the PS Plus relaunch. Only users who aren’t already subscribed can redeem a one, three, or 12-month prepaid card, which are still sold at many retailers (including directly from Sony).",
+        "shortDesc": "Sony has updated its PlayStation Plus FAQ page (tucked away at the bottom here) and is clamping down further on loopholes that gave users early discounts on its upcoming PlayStation Plus Premium service. It’s also pausing...",
+        "date": "29 April 2022"
+    },
+    {
+        "id": 39,
+        "category" : "Technology",
+        "title" : "very ridiculous thing we learned today about Elon Musk’s plan to take over Twitter",
+        "img":"https://cdn.vox-cdn.com/thumbor/19ROBD0lEYO9ujzeLD-F975ps54=/0x0:2040x1360/1820x1213/filters:focal(857x517:1183x843):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/70812768/VRG_Illo_STK022_K_Radtke_Musk_Twitter_Shrug.0.jpg",
+        "type":"LatestArticles",
+        "description": "This is the end of the first week after Twitter accepted Elon Musk’s $44 billion buyout offer, and one of the strangest tech transactions ever just keeps adding new twists. A detailed report from The Wall Street Journal has peeled back a few layers on the process that began with Musk accumulating Twitter stock back in January and what that might mean when he eventually closes the deal and becomes its owner. Taken with additional information from The Verge contributing editor Casey Newton in Platformer and a new report from Reuters, the picture starts to become clearer. Reuters is adding more details to earlier reports from Bloomberg and The Washington Post about the ideas Musk pitched to bankers who will loan him some of the money he needs to buy Twitter. According to Reuters’ sources, he told bankers that he plans to develop revenue-growing features, and one of his examples is “charging a fee when a third-party website wants to quote or embed a tweet from verified individuals or organizations.” As the outlet notes, in some now-deleted tweets from earlier this month, Musk discussed reducing Twitter’s reliance on advertising to make money and proposed changes to the Twitter Blue subscription, such as banning ads. Reuters also reports Musk has reportedly already lined up a new CEO to take over from Parag Agrawal and cites a source saying he won’t make decisions on job cuts until he actually takes ownership of the company.",
+        "shortDesc": "This is the end of the first week after Twitter accepted Elon Musk’s $44 billion buyout offer, and one of the strangest tech transactions ever just keeps adding new twists. A detailed report from The Wall Street Journal...",
+        "date": "1 May 2022"
+    },
+    {
+        "id": 40,
+        "category" : "Technology",
+        "title" : "Microsoft is adding a free built-in VPN to its Edge browser",
+        "img":"https://cdn.vox-cdn.com/thumbor/SKCSO6MBjM-vBVKYcCjUC1_8DYM=/0x0:1860x1274/1820x1213/filters:focal(782x489:1078x785):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/70812436/MicrosoftEdge.0.png",
+        "type":"latestTopPost",
+        "description": "Microsoft is adding a free built-in virtual private network (VPN) service to its Edge browser in a bid to improve security and privacy, a Microsoft support page revealed. Called ”Edge Secure Network,” Microsoft is currently testing the Cloudflare-powered VPN service and says it will roll it out to the public as a part of a security upgrade. When turned on, Edge Secure Network should encrypt users’ web traffic so internet service providers can’t collect browsing information you’d rather keep private, like, say, health-related searches or just plain bizarre queries. The new feature will also let users hide their location by making it possible for them to browse the web using a virtual IP address. That also means users could access content blocked in their countries like, for instance, Netflix or Hulu shows.",
+        "shortDesc": "Microsoft is adding a free built-in virtual private network (VPN) service to its Edge browser in a bid to improve security and privacy, a Microsoft support page revealed. Called ”Edge Secure Network,” Microsoft is currently...",
+        "date": "29 April 2022"
+    },
+    {
+        "id": 41,
+        "category" : "Technology",
+        "title" : "Startup Trail is Oregon Trail for tech policy wonks",
+        "img":"https://cdn.vox-cdn.com/thumbor/5ww_dcYpXATUlC2sQ82Y3t2aMV8=/0x0:2545x1244/1820x1213/filters:focal(1070x419:1476x825):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/70805815/Screen_Shot_2022_04_27_at_4.50.34_PM.0.png",
+        "type":"default",
+        "description": "My startup went public, and it only took me about 25 minutes to pull it off. I don’t remember what the company does, though I don’t think it really matters? I own 16 percent of the place, but after I made some rash decisions about a legal fight and opted to set up a local office in India, the company basically doesn’t have any cash left on hand. Users love us, though! So the future’s bright for... whatever our name is. It doesn’t matter. In a minute, I’ll start over and try something else. I’ve spent too much of my day today playing Startup Trail, a new browser game made by The Copia Institute (a think tank and the parent organization of the publication Techdirt), the startup trade group Engine, and developer Leveraged Play. The two organizations created the game, as Techdirt’s Mike Masnick puts it, to give people a small glimpse into the kinds of policy decisions startups have to make and why they’re rarely as easy as they look. Especially for small companies that don’t have the seemingly infinite resources of a Google or an Amazon. At the start of Startup Trail — which definitely has echoes of Oregon Trail, and Masnick told me the debate about whether dysentery should be involved made it all the way through the night before launch — you choose the kind of founder you want to be and where you want to be located. I picked Mike, who has wealthy connections, graduated from “an elite institution with a reputation for turning out startup founders,” and sounded roughly like most of the Stanford grad startup founders running around Palo Alto. I opted to set up shop in “University Park,” where there was plenty of cheaper talent but not as many investors as I would have found in “Big Tech Valley.” I actually never got to choose what my company does because it doesn’t really seem to matter. Most startups deal with the same stuff.",
+        "shortDesc": "My startup went public, and it only took me about 25 minutes to pull it off. I don’t remember what the company does, though I don’t think it really matters? I own 16 percent of the place, but after I made some rash decisions about a legal fight and opted to set...",
+        "date": "16 March 2022"
+    },
+    {
+        "id": 42,
+        "category" : "Technology",
+        "title" : "Intel CEO now says the chip shortage will ‘drift’ into 2024",
+        "img":"https://cdn.vox-cdn.com/thumbor/aKSS61DWqzhui_ju6jjVbsdbaew=/0x0:2040x1360/1820x1213/filters:focal(857x517:1183x843):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/70812389/acastro_210120_1777_intel_0002.0.jpg",
+        "type":"default",
+        "description": "Six months after predicting the global chip shortage would last until at least 2023, Intel CEO Pat Gelsinger is now suggesting it might be 2024 before we’re fully out of the woods. “We believe the overall semiconductor shortage will now drift into 2024, from our earlier estimates in 2023, just because the shortages have now hit equipment and some of those factory ramps will be more challenged,” he told CNBC on Friday. But while that sounds a little doom-y and gloom-y, you should know that the “chip shortage” is an involved, evolving situation that doesn’t affect every kind of chip at every time. Some industries and some kinds of parts have been worse hit than others as things go on. In fact, Intel’s own chips are doing fairly well. “For the first time in years, Intel fabs and our substrate supply are close to meeting our customers’ demand,” Gelsinger said yesterday on the company’s Q1 2022 earnings call.",
+        "shortDesc": "Six months after predicting the global chip shortage would last until at least 2023, Intel CEO Pat Gelsinger is now suggesting it might be 2024 before we’re fully out of the woods. “We believe the overall semiconductor shortage will now drift into...",
+        "date": "16 April 2022"
+    },
+    {
+        "id": 43,
+        "category" : "Technology",
+        "title" : "How FAFSA got caught sending personal info to Facebook",
+        "img":"https://cdn.vox-cdn.com/thumbor/VR7dRe4pNRAdgXwdGiqXXiSb1uE=/0x0:2040x1360/1820x1213/filters:focal(857x517:1183x843):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/70810150/acastro_180828_1777_facebook_0001.0.jpg",
+        "type":"default",
+        "description": "If you applied for financial aid through Free Application for Federal Student Aid (FAFSA) in the US in early 2022, there’s a very good chance some personal information was provided to a platform that’s completely irrelevant to the process: Facebook. This report from The Markup exposed that, as early as January 2022, the US Department of Education sent data from website visitors to Facebook, potentially including information submitted on forms like first and last name, country, phone number, and email address, via the “Meta Pixel” tracking pixel — even if the person didn’t have a Facebook account. The Markup also notes that this data collection began “even before the user logged in to studentaid.gov.”  When asked about this tracking, a spokesperson for the Department of Education initially denied that it was taking place, despite The Markup finding code that clearly indicates otherwise. Federal Student Aid COO Richard Cordray then fessed up, telling the publication that the data gathering was “part of a March 22 advertising campaign,” which had “inadvertently” sent the personal data to Facebook. The data-sharing feature was then turned off. Cordray also said the data “was automatically anonymized and neither FSA nor Facebook used any of it for any purpose,” without explaining how they were able to verify that.",
+        "shortDesc": "If you applied for financial aid through Free Application for Federal Student Aid (FAFSA) in the US in early 2022, there’s a very good chance some personal information was provided to a platform that’s completely irrelevant to the process: Facebook. This...",
+        "date": "29 April 2022"
+    },
+    {
+        "id": 44,
+        "category" : "Technology",
+        "title" : "Mars helicopter spots wreckage from Perseverance landing",
+        "img":"https://cdn.vox-cdn.com/thumbor/PfSYpG13CxPddrCapuYBHiOs7MY=/0x0:1734x1230/1820x1213/filters:focal(729x477:1005x753):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/70810148/Screen_Shot_2022_04_28_at_11.36.07_AM.0.png",
+        "type":"default",
+        "description": "New picture from the Ingenuity helicopter offer a fresh perspective of the wreckage left behind when the Perseverance rover landed on Mars last year, NASA said on Wednesday.Launched in 2020, the Perseverance rover successfully landed on the Red Planet in 2021, with the mission of finding ancient signs of life on Mars. The rover carried the Ingenuity helicopter onboard — an experimental project that scientists on Earth hoped would be able to see sights that the rover couldn’t. Perseverance went through a grueling process known as the seven minutes of terror to descend onto the Martian surface. As it entered the atmosphere, a heat shield helped protect the rover from the blistering heat of reentry and slowed it down dramatically. After that, the massive parachute deployed out of the backshell (a cone-shaped part of the descent vehicle), slowing it down even more. At that point, the backshell and parachute separated from Perseverance and let the descent stage take over, using rocket thrusters and a “sky crane” to gently lower the rover to a smooth landing.",
+        "shortDesc": "New picture from the Ingenuity helicopter offer a fresh perspective of the wreckage left behind when the Perseverance rover landed on Mars last year, NASA said on Wednesday.Launched in 2020, the Perseverance rover successfully landed on the...",
+        "date": "3 March 2022"
+    },
+    {
+        "id": 45,
+        "category" : "Technology",
+        "title" : "Polar pacer pro review: same watch in a slightly different package",
+        "img":"https://cdn.vox-cdn.com/thumbor/_4Oc3fwy7O7UmLYYEKs63661bNA=/0x0:2040x1360/2820x1586/filters:focal(857x517:1183x843):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/70809715/vsong_220426_5172_0001.0.jpg",
+        "type":"topPost",
+        "description": "There’s no shortage of GPS running watches. Seriously. When I ran the New York City Half Marathon last month, I quickly lost count of the different brands and models of watches I saw on the wrists of my fellow runners. Runners are among the most eager to quantify their workout data with tech — be it with watches, smart shoes, smart insoles, apps, or even a connected treadmill. So I was wholly unsurprised when Polar billed its $299.95 Pacer Pro as a GPS watch that’s specifically designed to help runners take their race to the next level. It’s not that there aren’t any differences. The Polar Pacer Pro has faster hardware and 5MB of internal RAM. That might sound low compared to something like the Apple Watch, but it’s a lot more than what every other Polar watch has. One of my biggest issues with Polar watches over the years has been how laggy the screens and syncing can be. The Pacer Pro fixes that. The Pro also adds a barometer, which Polar says can help you measure running power, aka your output, in watts. And while the Pro and M2 have similarly sized displays, the Pro’s display is easier to read. The case also feels a smidge smaller, thinner, and more lightweight. The way the straps attach is also different. The Pacer Pro uses Polar’s proprietary Shift adaptor while the M2 uses your standard spring release pins.",
+        "shortDesc": "There’s no shortage of GPS running watches. Seriously. When I ran the New York City Half Marathon last month, I quickly lost count of the different brands and models of watches I saw on the wrists of my fellow runners. Runners are among the...",
+        "date": "24 April 2022"
+    },
+    {
+        "id": 46,
+        "category" : "Technology",
+        "title" : "The Skydio 2+ Drone Lets You Fly Like a Pro",
+        "img":"https://dronesboy.com/wp-content/uploads/2022/01/%E7%B6%B2%E7%AB%99%E6%96%87%E7%AB%A0%E5%B0%81%E9%9D%A2-24.png",
+        "type":"latestStories",
+        "description": "THERE WILL NEVER be the perfect drone for everyone. There are too many different reasons for owning a drone. Some like to race. Some like to shoot sweeping cinematic masterpieces, and some want to follow fast-paced action. What makes a drone good at one thing often makes it not so great for another. That said, if you're after speed and maneuverability, the Skydio 2+ is darn near perfect. It does have some shortcomings, which I'll get to below. But the tracking and collision-avoidance software in the Skydio 2+ are better than anything else I've used, by an order of magnitude. Best of all, Skydio wraps this sophistication in an incredibly simple, easy-to-use flight control system. ",
+        "shortDesc": "THERE WILL NEVER be the perfect drone for everyone. There are too many different reasons for owning a drone. Some like to race. Some like to shoot sweeping cinematic masterpieces, and some want to follow fast-paced action. What makes a drone good at one thing often makes...",
+        "date": "18 March 2022"
+    },
+    {
+        "id": 47,
+        "category" : "Technology",
+        "title" : "The real cost of cloud computing",
+        "img":"https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1248800431.jpg?fit=750%2C383&strip=all",
+        "type":"default",
+        "description": "The public cloud is growing rapidly and the market for the technology is expected to reach $1.3 trillion by 2025. The cloud has revolutionized the computing industry and enabled many applications, business models and enterprises, which otherwise wouldn’t have been possible. Immediate availability, scalability, minimal capital expenditure and streamlined developer experience are its main advantages — but it comes at a cost. The impact of cloud spending on margins after a company scales outweighs the benefits. Due to a lack of in-house infrastructure optimization capabilities, most enterprises stick to the cloud even after achieving certain maturity. To keep cloud spending under control, enterprises have built or acquired tools and services. However, keeping cloud budgets under control became another specialty, requiring more than implementing a tool. Large enterprises have started exploring cloud repatriation. After Dropbox’s move from the public cloud resulted in $75M savings over two years and doubling its gross margin, Andreessen Horowitz conducted a study and found that cloud spending could go up as high as 80% of the cost of the revenue for software companies. Moreover, the $100 billion market value among 50 software companies is lost due to the impact of the cloud on their margins. In their concluding remarks, they mentioned the oligopoly of cloud providers would start to give up either the margins (i.e., lower prices) or the workloads (i.e., cloud repatriation). A couple of months later, Google Cloud announced its plans to increase prices.",
+        "shortDesc": "The public cloud is growing rapidly and the market for the technology is expected to reach $1.3 trillion by 2025. The cloud has revolutionized the computing industry and enabled many applications, business models and enterprises, which otherwise wouldn’t have been possible. Immediate availability...",
+        "date": "21 April 2022"
+    },
+    {
+        "id": 48,
+        "category" : "Technology",
+        "title" : "Cybersecurity and the Pareto Principle: The future of zero-day preparedness",
+        "img":"https://venturebeat.com/wp-content/uploads/2016/10/bots.jpg?fit=750%2C479&strip=all",
+        "type":"latest",
+        "description": "It’s a 40-year reunion sequel to the movie “War Games.” The scene starts as everyone is getting ready for Christmas break and a community of mischievous Minecraft players makes an unbelievable discovery: a systemic software exploit in the open-source Java logging library embedded as a core component of most internet workloads. The vulnerability is easy to exploit and enables remote-code execution, leaving IT and security teams around the world scrambling. Instead of science fiction, this was reality as thousands of security teams around the globe worked through the holidays to determine the extent of their dependency on Log4j and quickly patch together fixes for the initial disclosure and permutations thereafter. Log4Shell taught us about enterprise security priorities and what “preparedness” in the security industry will mean going forward. Log4Shell provides a lesson in the optimal tooling that security teams ought to focus on, with teams struggling in key fundamental areas of security readiness and software asset management. ",
+        "shortDesc": "It’s a 40-year reunion sequel to the movie “War Games.” The scene starts as everyone is getting ready for Christmas break and a community of mischievous Minecraft players makes an unbelievable discovery: a systemic software exploit...",
+        "date": "1 May 2022"
+    },
+    {
+        "id": 49,
+        "category" : "Technology",
+        "title" : "Deep learning is bridging the gap between the digital and the real world",
+        "img":"https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-523143442-Jonathan-Knowles.jpg?fit=750%2C510&strip=all",
+        "type":"latestTopPost",
+        "description": "Algorithms have always been at home in the digital world, where they are trained and developed in perfectly simulated environments. The current wave of deep learning facilitates AI’s leap from the digital to the physical world. The applications are endless, from manufacturing to agriculture, but there are still hurdles to overcome. To traditional AI specialists, deep learning (DL) is old hat. It got its breakthrough in 2012 when Alex Krizhevsky successfully deployed convolutional neural networks, the hallmark of deep learning technology, for the first time with his AlexNet algorithm. It’s neural networks that have allowed computers to see, hear and speak. DL is the reason we can talk to our phones and dictate emails to our computers. Yet DL algorithms have always played their part in the safe simulated environment of the digital world. Pioneer AI researchers are working hard to introduce deep learning to our physical, three-dimensional world. Yep, the real world. ",
+        "shortDesc": "Algorithms have always been at home in the digital world, where they are trained and developed in perfectly simulated environments. The current wave of deep learning facilitates AI’s leap from the digital to the...",
+        "date": "15 April 2022"
+    },
+    {
+        "id": 50,
+        "category" : "Technology",
+        "title" : "Report: 95% of IT leaders say Log4shell was ‘major wake-up call’ for cloud security",
+        "img":"https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-150654701.jpg?fit=750%2C391&strip=all",
+        "type":"default",
+        "description": "According to a new report by Valtix, 95% of IT leaders believe that Log4Shell was a major wake-up call for cloud security, changing it permanently. The report highlights key trends in cloud workload security following Log4Shell, including insights into patching efforts and business impacts that still continue into 2022. In 2021, Log4Shell was exploited and shook the entire global cybersecurity landscape. The humble piece of open-source software – ubiquitous with enterprise apps and cloud services – quickly became the worry of IT teams, executives and boards, as they scrambled to protect their most valuable data, systems and platforms. The research found that 87% feel less confident about their cloud security now than they did prior to the incident. The research also found that even 3 months after the incident, 77% of IT leaders are still dealing with Log4J patching with 83% stating that Log4Shell has impacted their ability to address business needs. Most companies still lack clear visibility into their cloud environment, leaving many IT leaders in the dark of what is actually happening within this environment. And after the Log4Shell incident, cloud visibility has become more crucial than ever.",
+        "shortDesc": "According to a new report by Valtix, 95% of IT leaders believe that Log4Shell was a major wake-up call for cloud security, changing it permanently. The report highlights key trends in cloud workload security following...",
+        "date": "29 April 2022"
+    },
+    {
+        "id": 51,
+        "category" : "Fitness",
+        "title" : "A Simple Yet Powerful Method to Motivate Yourself to Exercise Consistently",
+        "img":"https://ik.imagekit.io/02fmeo4exvw/SR073Z~F.JPG?tr=w-1000",
+        "type":"topPost",
+        "description": "When it comes to health behaviors, motivation seems hard because we often take the path of most resistance, particularly when it comes to exercise. Too many mistakenly believe that exercise must be awful to be effective, which is often enough to stop them before they even get started. Yet rarely has anyone ever regretted exercising or even just going for a brisk walk. Here is a simple technique that you can use to capture the shift in mood and energy level that your next workout has provided for you. If you use this for a few workouts in a row you can, in effect, teach your brain to get the immediate “reward” of exercise or physical activity. Here’s how to do it: Use the “Voice Memos” app on your smartphone, Immediately before exercising, record a very short statement describing how you feel physically, mentally and/or emotionally, Immediately after exercise, repeat step 2, Playback the recording from steps 2 and 3 right after each other.",
+        "shortDesc": "When it comes to health behaviors, motivation seems hard because we often take the path of most resistance, particularly when it comes to exercise. Too many mistakenly believe that exercise must be awful to be effective...",
+        "date": "21 March 2022"
+    },
+    {
+        "id": 52,
+        "category" : "Fitness",
+        "title" : "Rest and Relaxation is not a Luxury, it is a Necessity",
+        "img":"https://ik.imagekit.io/02fmeo4exvw/blogs/Rest_and_Relaxation_is_Not_a_Luxury.jpg?tr=w-1000",
+        "type":"LatestArticles",
+        "description": "You have probably heard statements like these before, but they leave the wrong impression about exercise. Fortunately, more people are beginning to recognize that the key to making progress is less about pushing through pain and more about participating in daily movement and exercising to feel good and be able to do the things you love. Optimal health and fitness, the kind all of us need, come from constantly moving your body in ways that keep you available, keep you in the game. Because no matter how hard you can push, if you’re injured or sick, you’re on the bench. If this has you sweating, because you love sweating, don’t fret. The more you recover, the more you can push when you do tougher workouts. Active recovery, which is low impact and low- to moderate-intensity movement, increases blood flow to muscle tissue. This is a necessary part of the repair process, but it won’t happen if you keep pounding the pavement or hitting the gym hard during every exercise session. Light movement designed to keep you feeling good speeds up your recovery so the next time you do push, you can push harder.",
+        "shortDesc": "You have probably heard statements like these before, but they leave the wrong impression about exercise. Fortunately, more people are beginning to recognize that the key to making progress is less about pushing through pain and more about participating in daily movement...",
+        "date": "18 February 2022"
+    },
+    {
+        "id": 53,
+        "category" : "Fitness",
+        "title" : "Better Ways to Implement the Health and Fitness Advice You are Tired of Hearing",
+        "img":"https://ik.imagekit.io/02fmeo4exvw/blogs/FY22_HL_11_25_Advice%20You%20Are%20Tired%20Hearing_GI-1066772482%20header.png?tr=w-1000",
+        "type":"topPost",
+        "description": "Eat less and exercise more. If only it were that simple. Human physiology is complex, yet we are irresistibly drawn to simple solutions. We love it when things are simple, but life rarely works that way. The harm in widely accepted platitudes about health is that they lead to the following problem for those who consistently struggle with health: If health is simple and you have difficulty getting it, then there must be something wrong with you. Count calories for only a brief period and only if it helps you acquire an understanding of how much you are eating consistently. Long-term, consume higher-quality foods that are meant for your body and eat until you are about 80% full; you will get more accurate signals of satiety along with more nutrients and thus be less likely to overeat.",
+        "shortDesc": "Eat less and exercise more. If only it were that simple. Human physiology is complex, yet we are irresistibly drawn to simple solutions. We love it when things are simple, but life rarely works that way. The harm in widely...",
+        "date": "9 April 2022"
+    },
+    {
+        "id": 54,
+        "category" : "Fitness",
+        "title" : "Change Your Breathing, Change Your Life",
+        "img":"https://ik.imagekit.io/02fmeo4exvw/blogs/ChangeBreathingChangeLife_Header.png?tr=w-1000",
+        "type":"default",
+        "description": "When we breathe correctly, we have a sufficient amount of carbon dioxide, and our breathing is quiet, controlled and rhythmic,” explains  Patrick McKeown in The Oxygen Advantage: The Simple, Scientifically Proven Breathing Techniques for a Healthier, Slimmer, Faster and Fitter You. “If we are overbreathing, our breathing is heavy, more intense and erratic, and we exhale too much carbon dioxide, leaving our body literally gasping for oxygen.” The Wim Hof Method, which is a mix of breathing and cold therapy, has not only caught the attention of major media outlets and celebrities but it has also been tested by science and determined that the training boosts your immunity. “The present proof-of-principle study demonstrates that the sympathetic nervous system and immune system can be voluntarily influenced through practicing techniques that are relatively easy to learn within a short time frame,” write the researchers of a study published in the National Library of Medicine. “It therefore could have important implications for the treatment of a variety of conditions associated with excessive or persistent inflammation, especially auto-immune diseases.”  If you’re looking for an edge to your training or a way to simply feel less stressed, start noticing your breathing, and close your mouth.",
+        "shortDesc": "When we breathe correctly, we have a sufficient amount of carbon dioxide, and our breathing is quiet, controlled and rhythmic,” explains  Patrick McKeown in The Oxygen Advantage: The Simple, Scientifically Proven Breathing Techniques for a Healthier, Slimmer, Faster...",
+        "date": "18 December 2021"
+    },
+    {
+        "id": 55,
+        "category" : "Fitness",
+        "title" : "How Exercise Can Boost Mental Health in Young Adults",
+        "img":"https://bergandgroup.com/wp-content/uploads/2014/09/Group-Therapy-450.jpg",
+        "type":"default",
+        "description": "Exercise Increases “feel good” Hormones and Neurotransmitters Vigorous exercise creates immediate changes in “feel good” neurotransmitters such as serotonin and dopamine, positively impacting how you feel, think and act. Norepinephrine, a hormone and a neurotransmitter that increases in concentration during exercise, can protect your brain from the negative impacts of stress. Exercise also promotes an increase in endogenous opioids that improve mood and a sense of well- being. These “endorphins” are one of the factors behind the “runner’s high.” Exercise Improves Self-esteem in addition to the positive physiological and neurological benefits, regular exercise is associated with improved self-esteem. Additionally, a more positive outlook combined with improved body perception and overall physical competence results in young adults feeling more adept and confident.",
+        "shortDesc": "Exercise Increases “feel good” Hormones and Neurotransmitters Vigorous exercise creates immediate changes in “feel good” neurotransmitters such as serotonin and dopamine, positively impacting how you feel, think and act. Norepinephrine, a hormone and a neurotransmitter...",
+        "date": "17 April 2022"
+    },
+    {
+        "id": 56,
+        "category" : "Fitness",
+        "title" : "The Power of Dirt: The Benefits of Outdoor Workouts",
+        "img":"https://ik.imagekit.io/02fmeo4exvw/blogs/2021-HL_PowerofDirt_Header.png?tr=w-1000",
+        "type":"default",
+        "description": "Dirt can also spark mental acuity. In another study, researchers fed mice M. vaccae-laced peanut butter sandwiches and set them loose in mazes in a race against mice who had not eaten “dirty” snacks. The bacteria-dosed mice successfully completed the mazes more rapidly than their peers. Scientists believe the bacteria stimulates the hippocampus, which is tasked with spatial memory, while also stimulating the executive brain function, which sharpened the rodents’ focus. We have long known that training outside provides a host of benefits including increased Vitamin D levels from sun exposure and reduced stress levels from being in green spaces. Now we can add yet another benefit. When we are active in outdoor spaces, we stir up the dirt, inhaling all of that M. vaccae goodness that can improve mood and reduce incidence of depression, anxiety, and stress. So instead of heading back inside to the well-scrubbed group exercise studio, keep offering exercise opportunities in those outdoor spaces.  Oh, and maybe throw in a free trial-sized bottle of high powered laundry detergent to ease the transition for those who might be more hesitant!",
+        "shortDesc": "Dirt can also spark mental acuity. In another study, researchers fed mice M. vaccae-laced peanut butter sandwiches and set them loose in mazes in a race against mice who had not eaten “dirty” snacks. The bacteria-dosed mice successfully completed the mazes more rapidly than...",
+        "date": "21 February 2022"
+    },
+    {
+        "id": 57,
+        "category" : "Fitness",
+        "title" : "Change Your Behavior, Change Your Life",
+        "img":"https://ik.imagekit.io/02fmeo4exvw/blogs/2021-HL_ChangebehaviorChangelife_Header.png?tr=w-1000",
+        "type":"default",
+        "description": "Self-Determination Theory Also known as the theory of human motivation, this method focuses on your potential and desire as a human to grow and connect. Of all the things that will help you change your health- and exercise-related behaviors, community might be the most powerful. Competence (feeling like you’ve done a good job), autonomy (owning your changes) and relatedness (the power of community and connecting with others) are the bedrocks of this theory. Try this: Find a workout buddy. Join a walking club or get a family member or friend to join you in your efforts to be more active. on this mission of making positive changes. See how the accountability of another person increases your motivation and determination. ",
+        "shortDesc": "Self-Determination Theory Also known as the theory of human motivation, this method focuses on your potential and desire as a human to grow and connect. Of all the things that will help you change your health- and exercise-related behaviors, community might be the most powerful. Competence...",
+        "date": "12 November 2022"
+    },
+    {
+        "id": 58,
+        "category" : "Fitness",
+        "title" : "How to Build Habits for Healthier Sleep",
+        "img":"https://ik.imagekit.io/02fmeo4exvw/blogs/2021-HL_Habitsbettersleep_Header.png?tr=w-1000",
+        "type":"default",
+        "description": "Similar to developing physical fitness, sleep fitness takes effort and the implementation of small changes in daily behaviors to promote and support better sleep. Before change can occur, you have to raise your level of awareness, and the best place to begin is by examining and tracking your sleep habits throughout the week. Observe such things as: What you do before bed (read, watch TV, scroll social media, etc.) What time you turn the lights out, What time you rise, Caffeine and alcohol intake, What time you eat dinner, The temperature of your room, The type of light you’re exposed to before bed, Your energy levels throughout the day How many hours of sleep you think you get each night By journaling your observations, you are more likely to discover a pattern of behavior and make connections between the quality of your sleep and the behaviors you engage in. Once you have an idea of what your sleep ritual, routine, and contributing (or detracting) behaviors are, you can refine your habits to promote better quality and more restorative sleep. “Choose one habit that you are ready to change and journal or home in on it for a week,” urges Hosford. “Then, go to the next one that you can shift within your lifestyle. The best changes to make are the ones you are ready for.” ",
+        "shortDesc": "Similar to developing physical fitness, sleep fitness takes effort and the implementation of small changes in daily behaviors to promote and support better sleep. Before change can occur, you have to raise your level of awareness, and the best place to begin is by examining and tracking your...",
+        "date": "17 December 2022"
+    },
+    {
+        "id": 59,
+        "category" : "Fitness",
+        "title" : "Benefits of Hiking: Physical, Mental and Beyond",
+        "img":"https://ik.imagekit.io/02fmeo4exvw/blogs/2020-HL_BenefitsofHiking_Header.png?tr=w-1000",
+        "type":"default",
+        "description": "Hiking is cardiovascular in nature, so it can provide great benefit to heart health while also improving blood pressure and blood sugar levels. Hiking helps increase the strength in the leg muscles, builds stability in the core muscles and enhances balance skills. The more technical the terrain is, along with an increase in climbing intensity, the more balance and core strength is required because more muscles are being recruited to manage the steeper terrain. As you climb, the larger muscles in your legs are activated (such as the quadriceps, glutes, hamstrings and calves), and on the descent, your glutes and quadriceps are working hard to prevent you from falling forward on the decline. Uneven terrain means many of the smaller stabilizer muscles are being worked, which increases stability and balance overall. The intensity of a hike can be altered to fit the ability of the person hiking, from a simple hiking path in a neighborhood to a challenging climb up a mountain, which makes hiking accessible to all abilities and across all ages. The hillier the trail is, the harder your heart will work, therefore increasing the potential cardiovascular benefit.",
+        "shortDesc": "Hiking is cardiovascular in nature, so it can provide great benefit to heart health while also improving blood pressure and blood sugar levels. Hiking helps increase the strength in the leg muscles, builds stability in the core muscles and enhances balance skills. The more technical the terrain...",
+        "date": "20 April 2022"
+    },
+    {
+        "id": 60,
+        "category" : "Fitness",
+        "title" : "Diet and Exercise Show Promise in Addressing Mild Cognitive Impairment",
+        "img":"https://ik.imagekit.io/02fmeo4exvw/blogs/2019-HL_06_04-MildCognitiveImpairment-header.jpg?tr=w-1000",
+        "type":"topPost",
+        "description": "Can there be anything more highly recommended and universally agreed upon than regular exercise and healthy nutrition for a sound mind and sound body? If there is, it’s the best-kept secret around. And that’s likely because there is nothing better and more frequently prescribed than diet and physical activity to help just about every part of the body to function at optimal levels. In short, diet and exercise are “no brainers,” especially when it comes to the brain. Today, we have a better understanding of the positive effects of exercise and the foods we eat on mental health; common psychiatric conditions, from depression illness and bipolar disorder to schizophrenia and anxiety disorder, all benefit from regular bouts of physical activity and good nutrition. But what about cognitive health—our ability to remember things, our capacity to easily access, retrieve, interpret and articulate stored information from our brain? When that declines, can regular exercise and healthy eating help that, too? New research suggests that it can. Mild cognitive impairment (MCI) is the term given to a condition where a slight but noticeable decline in cognitive abilities takes place. There are two types of MCI: (1) “amnestic MCI” affects a person’s recall and ability to remember things such as appointments and recent events and (2) “nonamnestic MCI” includes thinking skills, such as the ability to make decisions and solve complex tasks. A person with MCI has an increased risk of developing Alzheimer’s disease.",
+        "shortDesc": "Can there be anything more highly recommended and universally agreed upon than regular exercise and healthy nutrition for a sound mind and sound body? If there is, it’s the best-kept secret around. And that’s likely because there is nothing better and...",
+        "date": "1 March 2022"
+    },
+    {
+        "id": 61,
+        "category" : "Fitness",
+        "title" : "Why Mindful Eating is Key to Emotional Wellness",
+        "img":"https://ik.imagekit.io/02fmeo4exvw/blogs/2020_HL_02_MindfulEating%26EmotionalWellness_Header.png?tr=w-1000",
+        "type":"default",
+        "description": "When stress is overwhelming and you find yourself eating too quickly or reaching for food to help you cope, take a moment to pause and appreciate the food in front of you. Sit: Always sit down when you eat. The act of sitting generally makes you eat at a slower pace compared to eating while standing. Be sure to not have the television on in front of you, because that is an automatic distraction. Smile and say thanks: Who does not feel good after they smile? By being appreciative of the food in front of you, you will approach the meal with a sense of gratitude, knowing that not everyone has easy access to food, See: Take a moment to look at your food. Look at all of the colors and textures of each ingredient in your meal, Smell: Can you notice different aromas and seasoning nuances to the meal in front of you?, Savor: This is often the most difficult part of the 5-S Plan because you will focus on chewing slowly and savoring each bite of the meal in front of you. Try to challenge yourself by chewing each bite at least 20 seconds. Do not pick up another bite of food until after you swallow your current bite. Because it takes at least 20 minutes for your brain to realize you are full, the act of eating slowly can leave you feeling less rushed and more satisfied with your meals. Taking the time to slow down the pace of your eating and to savor the food and people in front of you—as well as savoring the moment—can prove beneficial to you and your relationship with food. Try these tips for slowing down during your next few meals, and see which ones work best for you. If you cannot remember what the 5-S steps are, just focus on eating slowly and savoring your meal, one bite at a time.",
+        "shortDesc": "When stress is overwhelming and you find yourself eating too quickly or reaching for food to help you cope, take a moment to pause and appreciate the food in front of you. Sit: Always sit down when you eat. The act of sitting generally makes you eat at a slower pace compared to eating while...",
+        "date": "2 April 2022"
+    },
+    {
+        "id": 62,
+        "category" : "Fitness",
+        "title" : "Wellness on the Road: Fit and Healthy Travel Tips",
+        "img":"https://ik.imagekit.io/02fmeo4exvw/blogs/2019-HL_07_25-WellnessontheRoad-header.jpg?tr=w-1000",
+        "type":"default",
+        "description": "Keeping well on the road isn’t just about fitness or physical activity; it’s about striking a balance between physical and emotional health. Traveling is fun, but it comes with trials and obstacles. Pair that with being away from the comforts of home and it’s easy to understand why travelers become road (or airport) weary.As you plan your next road trip or cross-country excursion, prioritize these five healthy travel tips for wellness on the road. A successful trip starts with an intentional and thoughtful plan. Planning makes the entire trip less frenzied. Make a categorized list of tasks to do, items to bring and sights to see on the way. For the “To Do” List: Write down all the necessary tasks that must be accomplished prior to your leave date. These tasks might include picking up traveler’s checks, buying healthy snack items, obtaining travel toiletries and hand sanitizer, packing passports and IDs, checking the weather forecast, and planning a flexible itinerary/schedule for each day. Remember to include physical activity as part of your travel schedule, For the “To Bring” List: In addition to the usual packing items, add easily packed fitness essentials such as comfortable athletic shoes, athletic clothes and resistance bands. If you plan to bring a tablet, consider downloading some workout videos for on-the-go exercise sessions, For the “To See” List: Research the various attractions and sights along the path to your destination. This provides frequent opportunities to get out and move. Ideally, build enough flexibility into your plan so you can stop every two hours and move for at least 15 minutes. If you are traveling by plane, walk the airport terminals and when the captain turns off the “fasten seatbelt sign” be sure to get up, stretch and walk as much as possible. If you schedule bouts of physical activity during your trip, you won’t feel pressured for time and you most likely won’t neglect to be active. ",
+        "shortDesc": "Keeping well on the road isn’t just about fitness or physical activity; it’s about striking a balance between physical and emotional health. Traveling is fun, but it comes with trials and obstacles. Pair that with being away from the comforts of home and it’s easy to understand why travelers...",
+        "date": "1 April 2022"
+    },
+    {
+        "id": 63,
+        "category" : "Fitness",
+        "title" : "Fitness Tune-up: How to Overcome Your Fitness Plateau",
+        "img":"https://ik.imagekit.io/02fmeo4exvw/blogs/2021-HL_FitnessPlateau_Header.png?tr=w-1000",
+        "type":"topPost",
+        "description": "Genetics plays a role in how each of us responds to exercise training. You can optimize your individual potential by manipulating a few training variables. The FITT Principle can be applied to almost any fitness program. FITT stands for Frequency – Intensity – Time – and Type. Altering any one of these variables can help you push through a fitness plateau. Frequency refers to the number of days per week you perform a specific type of exercise, Intensity refers to how hard you work during a single exercise session, Time describes the duration of a single exercise session, Type refers to the kind of exercise you do. For example, jogging, swimming and cycling are types of activities that improve cardiorespiratory fitness, while body-weight exercises and weight training are types activities that improve muscular fitness.  Of these four components, intensity has the most profound impact on fitness outcomes. Adding higher intensity intervals to your cardio sessions is an effective way to challenge and improve your cardiorespiratory fitness. You can learn more about HIIT training here. To increase the intensity during a resistance-training session, consider reducing rest time between sets or performing supersets. A superset involves working opposing muscle groups back-to-back with no rest between the exercises. For example, you might perform a set of push-ups immediately followed by a set of bent-over rows.",
+        "shortDesc": "Genetics plays a role in how each of us responds to exercise training. You can optimize your individual potential by manipulating a few training variables. The FITT Principle can be applied to almost any fitness program. FITT stands for...",
+        "date": "2 May 2022"
+    },
+    {
+        "id": 64,
+        "category" : "Fitness",
+        "title" : "Fitness for Every Decade: What Every Woman Should Know",
+        "img":"https://ik.imagekit.io/02fmeo4exvw/blogs/2019-HL_05_14_FitnessforEveryDecade-header.jpg?tr=w-1000",
+        "type":"default",
+        "description": "Regular physical activity is key to achieving optimal health at any age. May is Women’s Health Month. Read on to learn how exercise impacts women’s health during each stage of life. Goal: Focus on enjoyable physical activities to boost mood and confidence. Only 27% of high school students get the recommended 60 minutes of daily physical activity on all 7 days of the week (Centers for Disease Control and Prevention, 2018). Apart from improving physical fitness, regular physical activity can positively impact emotional health in adolescents. Anxiety disorders affect more than 40 million Americans each year and are most prevalent among 13 to 17 year-olds (Merikangas et al., 2010). While anxiety disorders occur in both genders, girls are disproportionality impacted during the teenage years. Regular physical activity enhances self-esteem, improves mood and promotes healthy body image in adolescent females. Parents and caregivers of teenage girls should encourage activities that are enjoyable and that are self-selected. Furthermore, physical activity in this stage of life should emphasize wellness and healthy lifestyle behaviors over weight loss.",
+        "shortDesc": "Regular physical activity is key to achieving optimal health at any age. May is Women’s Health Month. Read on to learn how exercise impacts women’s health during each stage of life. Goal: Focus on enjoyable physical activities to boost mood and...",
+        "date": "15 March 2022"
+    },
+    {
+        "id": 65,
+        "category" : "Fitness",
+        "title" : "Creating Functional-Training Programs for Every Type of Client",
+        "img":"https://ik.imagekit.io/02fmeo4exvw/fit-life/2019/01/2019-01-29-functional-training-programs-header.jpg?tr=w-1000",
+        "type":"default",
+        "description": "Largely eclipsed by high-intensity interval training (HIIT) in recent years, functional training appears to be making a comeback (although some might argue it never went away). Functional training is concerned with movement efficiency, as it relates to a variety of variables that may impact overall movement patterns. The relationship between the fascia, muscular and nervous systems should be enhanced through specific functional training that allows an individual to generate sufficient force throughout the desired movement. Specifically, mobility, stability, fascia lines, and health and performance variables (e.g., stability, mobility, and muscular strength, endurance and power) should be taken into consideration, as all impact movement efficiency. The purpose of functional training is to optimize human movement, while addressing the issues that are negatively impacting movement efficiency in a particular client. Thus, it will ultimately improve one’s overall quality of life.",
+        "shortDesc": "Largely eclipsed by high-intensity interval training (HIIT) in recent years, functional training appears to be making a comeback (although some might argue it never went away). Functional training is concerned with movement efficiency, as it...",
+        "date": "29 January 2022"
+    },
+    {
+        "id": 66,
+        "category" : "Food",
+        "title" : "Soba Salad with Miso & Ginger Aubergine",
+        "img":"https://greenkitchenstories.com/wp-content/uploads/2022/01/Soba_aubergine_salad_1.jpg",
+        "type":"default",
+        "description": "Here is a great weeknight dinner that comes together on the stove in just under 20 minutes. Soft, sticky and flavor-packed aubergine meets crunchy broccoli and earthy noodles. Heaven in a bowl. I've had the wildest craving for noodles lately. We have both been making ramen soup and also a tofu noodle recipe from our next book. And last week I had an aubergine left from another job and made this quick dish for lunch. While the aubergine was frying and the noodles were cooking, I had just enough time to stir together the dressing. The dressing makes the dish, it has a good amount of ginger to give it a fresh punch – and sesame oil, miso and tamari to make it umami rich. It's an excellent quick lunch or dinner with the soft and flavorful aubergine, crunchy broccoli, earthy buckwheat noodles and chili for heat. PREPARATION Recipe Notes: – If you don't like aubergine, you could use mushrooms or tofu instead. – Soba noodles are made from buckwheat which is naturally gluten-free. But always check the package if you are intolerant as there are many brands who mix wheat and buckwheat.  – The marinade doesn't have any acidic ingredient, which I actually prefer in the recipe, but you could addd a splash of rice vinegar or lemon juice if you want.  ",
+        "shortDesc": "Here is a great weeknight dinner that comes together on the stove in just under 20 minutes. Soft, sticky and flavor-packed aubergine meets crunchy broccoli and earthy noodles. Heaven in a bowl. I've had the wildest craving for noodles lately. We have both been making ramen soup and...  ",
+        "date": "12 February 2022"
+    },
+    {
+        "id": 67,
+        "category" : "Food",
+        "title" : "Lasagna or Lasagne, whatever you wanna say!",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Lasagne_-_stonesoup.jpg/500px-Lasagne_-_stonesoup.jpg",
+        "type":"latestTopPost",
+        "description": "Lasagna is a popular oven-baked pasta dish of fresh egg pasta squares. It is a traditional dish from Bologna in Northern Italy, where the sheets are always green through the addition of spinach or nettles to the egg dough. In Bologna, these home made sheets are layered with small amounts of real Bolognese ragù (made with both beef and pork, very little tomato and no southern herbs like oregano and basil but a little nutmeg instead) and similarly small amounts of 'besciamella' or béchamel sauce in an oven dish. There are at least 5 layers of pasta dough, and the layers stay separate and do not 'merge' together into a mush. A light sprinkling of Parmigiano-Reggiano , and a few dabs of butter end the dish which is then baked for about half an hour. The use of Mozzarella in place of Béchamel suggests a Neapolitan variation to the original Bologna classic, as does the use of Ricotta. Lasagne refers to multiple sheets of pasta; lasagna refers to the dish or to individual sheets of pasta. In Italy but especially outside, many lasagna variations exist today. Vegetable lasagna, lasagna without béchamel sauce, lasagna without any sauce (just vegetables and/or meat) or even lasagna without sheets of pasta. When assembling a lasagna, start with the main ingredient (ragu, vegetables, seafood, etc.), add a layer of béchamel sauce, then one layer of lasagne pasta sheets and then the main ingredient again. Continue until the oven dish is full. End with a layer of pasta, spread some béchamel sauce on top and sprinkle the cheese over it.",
+        "shortDesc": "Lasagna is a popular oven-baked pasta dish of fresh egg pasta squares. It is a traditional dish from Bologna in Northern Italy, where the sheets are always green through the addition of spinach or nettles to the egg dough. In Bologna, these home made sheets are layered with...",
+        "date": "9 March 2022"
+    },
+    {
+        "id": 68,
+        "category" : "Food",
+        "title" : "Dal makhani also know as Maa ki dal/Urad ki dal",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Dal_Makhni_%26_Shahi_Paneer.jpg/600px-Dal_Makhni_%26_Shahi_Paneer.jpg",
+        "type":"topPost",
+        "description": "Dal Makhani is a delicacy from Punjab, India. Traditionally this dal was cooked slowly, for hours, on charcoal. This gave it a creamier texture. It had ‘malai’ (cream) or fresh butter added to it. When cooked at home these days, more moderate amounts of cream or butter are used. When prepared in restaurants, it is cooked slowly on low heat and often has a large amount of cream and butter added. Lentils and beans were soaked overnight for at least 8 hours and gently simmered on low heat along with ginger, garlic and a few other spices (garam masala). These are then combined with a tangy masala base which includes onions, tomatoes (chopped or puree) or dried mango powder or even pomegranate seeds. Dollops of fresh cream and butter lend the rich finishing touch. It is garnished with finely chopped coriander leaves and fresh cream. It is a sumptuous meal and a staple diet in Punjab and most of Northern India. It is commonly eaten with roti, rice, naan chapatis. This dal is rich in starch and minerals, it is also considered heavy for digestion, however ginger solves this problem and makes it easy to digest.",
+        "shortDesc": "Dal Makhani is a delicacy from Punjab, India. Traditionally this dal was cooked slowly, for hours, on charcoal. This gave it a creamier texture. It had ‘malai’ (cream) or fresh butter added to it. When cooked at home these days, more moderate amounts of cream or butter are used. When prepared...",
+        "date": "10 April 2022"
+    },
+    {
+        "id": 69,
+        "category" : "Food",
+        "title" : "Turkish Delight: Rosewater flavored",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Turkish_Delight.JPG/600px-Turkish_Delight.JPG",
+        "type":"default",
+        "description": "Turkish delight or lokum (Ottoman Turkish: لوقوم) is a family of confections based on a gel of starch and sugar. Premium varieties consist largely of chopped dates, pistachios, hazelnuts or walnuts bound by the gel; traditional varieties are often flavored with rosewater, mastic gum, bergamot orange, or lemon. The confection is often packaged and eaten in small cubes dusted with icing sugar, copra, or powdered cream of tartar to prevent clinging. Other common flavors include cinnamon and mint. In the production process, soapwort may be used as an emulsifying additive. The origin of Turkish delight is not precisely known, but the confection is known to have been produced in Turkey and Iran (Persia) as early as the late 18th century.  It is often flavored with rosewater or lemon, the former giving it a characteristic pale pink color. It has a soft, sticky consistency, and is often packaged and eaten in small cubes that are dusted with sugar to prevent sticking. Some recipes include small nut pieces, usually pistachio, hazelnut or walnuts.",
+        "shortDesc": "Turkish delight or lokum (Ottoman Turkish: لوقوم) is a family of confections based on a gel of starch and sugar. Premium varieties consist largely of chopped dates, pistachios, hazelnuts or walnuts bound by the gel; traditional varieties are often flavored with rosewater, mastic gum, bergamot...",
+        "date": "27 December 2021"
+    },
+    {
+        "id": 70,
+        "category" : "Food",
+        "title" : "Knafeh: Middle Eastern dessert made with spun pastry",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kanafeh_Nabulsieh.jpg/520px-Kanafeh_Nabulsieh.jpg",
+        "type":"topPost",
+        "description": "Knafeh (Arabic: كنافة) is a traditional Middle Eastern dessert made with spun pastry called kataifi, soaked in a sweet, sugar-based syrup called attar, and typically layered with cheese, or with other ingredients such as clotted cream, pistachio or nuts, depending on the region. It is popular in the Arab world, particularly Egypt and the Levant. Variants are also found in Turkey, Greece, and the Balkans. In Arabic, the name may refer to the string pastry itself, or to the entire dessert dish. In Turkish, the string pastry is known as tel kadayıf, and the cheese-based dessert that uses it as künefe. In the Balkans, the shredded dough is similarly known as kadaif/cataif, and in Greece as kataifi, and is the basis of various dishes rolled or layered with it, including dessert pastries with nuts and sweet syrups. One of the most well-known preparations of the dessert is 'Knafeh Nabulsiyeh', which originated in the city of Nablus, and is the most representative Palestinian dessert. Knafeh Nabulsiyeh uses a white-brine cheese called Nabulsi. It is prepared in a large round shallow dish, the pastry is colored with orange food coloring, and sometimes topped with crushed pistachio nuts.",
+        "shortDesc": "Knafeh (Arabic: كنافة) is a traditional Middle Eastern dessert made with spun pastry called kataifi, soaked in a sweet, sugar-based syrup called attar, and typically layered with cheese, or with other ingredients such as clotted cream, pistachio or nuts...",
+        "date": "2 January 2022"
+    },
+    {
+        "id": 71,
+        "category" : "Food",
+        "title" : "Indian dish: Shahi Paneer",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Shahi_Paneer_%26_Butter_Naan.jpg/500px-Shahi_Paneer_%26_Butter_Naan.jpg",
+        "type":"default",
+        "description": "Shahi paneer is a preparation of paneer, native to the Indian subcontinent, consisting of a thick gravy of cream, tomatoes and Indian spices. Originating with the creamy delicacies of Mughlai cuisine (hence the term 'shahi', in reference to the royal title of Shahanshah in Mughal India), this dish is prepared by emulsifying tomatoes, onions, ground cashews, clarified butter and cream into a curry, with the addition of paneer cubes and a variety of spices. It is mainly eaten with traditional Indian flat-breads like roti or naan, rice and bread. Paneer is derived from the Persian word for cheese, and shahi is the term for royal (in reference to the Imperial Court of the Mughal Empire). Similar dishes include paneer butter masala and Kadai paneer. The subtle difference between paneer butter masala and shahi paneer is that more of whole spices are used in paneer butter masala, whereas shahi paneer has a sweeter taste when compared to paneer butter masala.",
+        "shortDesc": "Shahi paneer is a preparation of paneer, native to the Indian subcontinent, consisting of a thick gravy of cream, tomatoes and Indian spices. Originating with the creamy delicacies of Mughlai cuisine (hence the term 'shahi', in reference to the royal title of Shahanshah in Mughal India)...",
+        "date": "12 February 2022"
+    },
+    {
+        "id": 72,
+        "category" : "Food",
+        "title" : "Japanese dish: Sushi",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Sushi_Roll.jpg/440px-Sushi_Roll.jpg",
+        "type":"default",
+        "description": "Sushi (すし, 寿司, 鮨, 鮓, pronounced [sɯɕiꜜ] or [sɯꜜɕi]) is a Japanese dish of prepared vinegared rice (鮨飯, sushi-meshi), usually with some sugar and salt, accompanied by a variety of ingredients (ねた, neta), such as seafood, often raw, and vegetables. Styles of sushi and its presentation vary widely, but the one key ingredient is 'sushi rice', also referred to as shari (しゃり), or sumeshi (酢飯, 'vinegared rice'). The inventor of modern sushi is believed to be Hanaya Yohei, who invented nigiri-zushi, a type of sushi most known today, in which seafood is placed on hand-pressed vinegared rice, around 1824 in the Edo period (1603－1867). It was the fast food of the chōnin class in the Edo period. Sushi is traditionally made with medium-grain white rice, though it can be prepared with brown rice or short-grain rice. It is very often prepared with seafood, such as squid, eel, yellowtail, salmon, tuna or imitation crab meat. Many types of sushi are vegetarian. It is often served with pickled ginger (gari), wasabi, and soy sauce. Daikon radish or pickled daikon (takuan) are popular garnishes for the dish. Sushi is sometimes confused with sashimi, a related dish in Japanese cuisine that consists of thinly sliced raw fish or occasionally meat.",
+        "shortDesc": "Sushi (すし, 寿司, 鮨, 鮓, pronounced [sɯɕiꜜ] or [sɯꜜɕi]) is a Japanese dish of prepared vinegared rice (鮨飯, sushi-meshi), usually with some sugar and salt, accompanied by a variety of ingredients (ねた, neta), such as seafood, often raw, and vegetables. Styles of sushi and its presentation vary widely...",
+        "date": "23 March 2022"
+    },
+    {
+        "id": 73,
+        "category" : "Food",
+        "title" : "Indian dish: Kadhi",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Kadhi_Chawal_from_India.jpg/520px-Kadhi_Chawal_from_India.jpg",
+        "type":"default",
+        "description": "In Northern India, pakoras are added to the gram flour gravy and sour yogurt is added to add flavor to it. They are eaten either with boiled rice or roti. In Gujarat and Rajasthan, it is usually served with khichdi, roti, paratha or rice. It is considered a light food. Gujarati and Rajasthani kadhi differs from the Uttar Pradesh variety. Traditionally, it is a little sweeter than the other variants, because sugar or jaggery is added to it, but it can be made without sugar for a more sour taste. It is eaten without pakoras and its consistency is slightly thinner. The Gujarati kadhi is made ideally from buttermilk, as this gives it a smoother texture compared to yogurt. Variations of this basic dish include the addition of certain vegetables, notably bhindi (okra) in which case it is known as bhinda ni kadhi. In Punjab, kadhi is a simple, quick winter meal. Made from besan (Gram flour) to thicken the consistency, and adding pakoras, it is eaten with either long-grain basmati rice or, more commonly, with a roti. Unlike the rest of India, sour yogurt is not added — just full-fat buttermilk or unsweetened yogurt. In Western India, especially in Maharashtra, kadhi is made with Kokum which is very famous in Coastal Maharashtra - Konkan with the name of Solkadhi. Other variants of kadhi in Maharashtra are made with Kacchi Kairi (raw mango) which is known as Aambyachi Kadhi (raw mango kadhi) And one more Variant of kadhi in Maharashtra is made of curd and buttermilk which is known as takachi kadhi.",
+        "shortDesc": "In Northern India, pakoras are added to the gram flour gravy and sour yogurt is added to add flavor to it. They are eaten either with boiled rice or roti. In Gujarat and Rajasthan, it is usually served with khichdi, roti, paratha or rice. It is considered a light food. Gujarati and Rajasthani kadhi differs...",
+        "date": "17 April 2022"
+    },
+    {
+        "id": 74,
+        "category" : "Food",
+        "title" : "Middle East dish: Hummus(hʊməs/hʌməs)",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Lebanese_style_hummus.jpg/440px-Lebanese_style_hummus.jpg",
+        "type":"default",
+        "description": "Hummus (/ˈhʊməs/, /ˈhʌməs/; Arabic: حُمُّص, 'chickpeas' full Arabic name: ḥummuṣ bi-ṭ-ṭaḥīna Arabic: حمص بالطحينة, 'chickpeas with tahini') is a Middle Eastern dip, spread, or savory dish made from cooked, mashed chickpeas blended with tahini, lemon juice, and garlic. The standard garnish in the Middle East includes olive oil, a few whole chickpeas, parsley, and paprika. In Middle Eastern cuisine, it is usually eaten as a dip, with pita bread. In the West, it is now produced industrially, and is often served as a snack or appetizer with crackers. The word hummus comes from Arabic: حُمُّص, romanized: ḥummuṣ 'chickpeas'. The full name of the prepared spread in Arabic is ḥummuṣ bi ṭaḥīna 'chickpeas with tahini'. The colloquial Arabic word ḥummuṣ is a variant of the Arabic ḥimmaṣ or ḥimmiṣ which may be derived from the Aramaic language (ḥemṣīn, ḥemṣāy), corresponding to the Syriac word for chickpeas: ḥem(m)ṣē.[10] The word entered the English language around the mid-20th century from the Arabic ḥummuṣ or via its borrowing for the name of the dish in Turkish: humus.  Spelling of the word in English can be inconsistent, though most major dictionaries from American and British publishers give hummus as the primary spelling. Some American dictionaries give hommos as an alternative, while British dictionaries give houmous or hoummos. The major British supermarkets use houmous. Other spellings include homous, houmos, houmus, and similar variants. While humus (as it is spelled in Turkish) is sometimes found, it is avoided as a heteronym of humus, organic matter in soil",
+        "shortDesc": "Hummus (/ˈhʊməs/, /ˈhʌməs/; Arabic: حُمُّص, 'chickpeas' full Arabic name: ḥummuṣ bi-ṭ-ṭaḥīna Arabic: حمص بالطحينة, 'chickpeas with tahini') is a Middle Eastern dip, spread, or savory dish made from cooked, mashed chickpeas blended with tahini, lemon juice, and garlic. The standard garnish in the Middle East includes...",
+        "date": "20 April 2022"
+    },
+    {
+        "id": 75,
+        "category" : "Food",
+        "title" : "Biryani",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Biryani_of_Lahore.jpg/440px-Biryani_of_Lahore.jpg",
+        "type":"default",
+        "description": "Biryani is the royal dish amongst all the exotic rice dishes of India, and remains the dish to serve on all best and auspicious occasions. Whether one serves it to welcome house guests on their first day, or whether it be the main course of the menu in formal entraining, or a gala festivity, the painstaking care which the housewife will take in the preparations of Biryani will commence when she selects her ingredients. Nothing but the best will do. Although there are numerous variations of Biryani, our carefully compiled recipes are fit to serve Royalty. The pride and care that goes in the making of Biryani is a story itself. We remember nostalgically, the day when grandma used to make Biryani. The frying of the onions just to that particular goldness; the weighing of the saffron with the precision of a goldsmith; the marinating of the meat in the spices and curds; the weighing down of the lid with a brick; the listening in, in order to ascertain whether it is ghee or moisture that is sizzling, plus a lot of other rigmarole. We must confess that in those days the pot of Biryani., when finally opened, announced itself to the whole neighbourhood, and the aroma and fragrance that emanated was sufficient to make the most fastidious smack their lips in anticipation. Whilst we cannot indulge in all these time consuming activities, here is a recipe which even grandmother will be hard to put improve upon.",
+        "shortDesc": "Biryani is the royal dish amongst all the exotic rice dishes of India, and remains the dish to serve on all best and auspicious occasions. Whether one serves it to welcome house guests on their first day, or whether it be the main course of the menu in formal entraining, or a gala festivity, the painstaking care which...",
+        "date": "27 April 2022"
+    },
+    {
+        "id": 76,
+        "category" : "Food",
+        "title" : "Mediterranean cuisine: Falafel",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bowl_of_falafel.jpg/440px-Bowl_of_falafel.jpg",
+        "type":"default",
+        "description": "Falafel (Arabic: فلافل) is a deep-fried ball or patty-shaped fritter made from ground chickpeas, broad beans, or both. Falafel is a traditional Middle Eastern food, commonly served in a pita, which acts as a pocket, or wrapped in a flatbread known as taboon; 'falafel' also frequently refers to a wrapped sandwich that is prepared in this way. The falafel balls are topped with salads, pickled vegetables, hot sauce, and drizzled with tahini-based sauces. Falafel balls may also be eaten alone as a snack or served as part of a meze tray (assortment of appetizers). Falafel is eaten throughout the Middle East and is a common street food. Falafel is usually made with fava beans in Egypt, and called Ta'amiya, and with chickpeas in the Levant. It is popular with vegetarians worldwide. Falafel is a common form of street food or fast food in Egypt as well as the Levant. The croquettes are regularly eaten as part of meze. During Ramadan, falafel balls are sometimes eaten as part of the iftar, the meal that breaks the daily fast after sunset. Falafel became so popular that McDonald's for a time served a 'McFalafel' in its breakfast menu all over Egypt. Falafel is still popular with the Copts, who cook large volumes during religious holidays. Falafel is consumed as part of Lent diet by Christian communities in Arab countries",
+        "shortDesc": "Falafel (Arabic: فلافل) is a deep-fried ball or patty-shaped fritter made from ground chickpeas, broad beans, or both. Falafel is a traditional Middle Eastern food, commonly served in a pita, which acts as a pocket, or wrapped in a flatbread known as taboon; 'falafel' also frequently refers to a wrapped sandwich...",
+        "date": "22 December 2022"
+    },
+    {
+        "id": 77,
+        "category" : "Food",
+        "title" : "Chinese Indonesian cuisine: Crab in oyster sauce",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Kepiting_Saus_Tiram_2.JPG/544px-Kepiting_Saus_Tiram_2.JPG",
+        "type":"default",
+        "description": "Crab in oyster sauce or oyster sauce crab is a Chinese seafood dish of crab served in savoury oyster sauce. It is a popular dish in Asia, that can be found from China, Indonesia, Singapore to the Philippines. Crab in oyster sauce can trace its origin to Southern China's Cantonese cuisine, more precisely after the development of oyster sauce in the late 19th century. Then the dish was spread across Asia. In Indonesia it is known as kepiting saus tiram, one of the two most popular ways that crab is served there and a popular seafood in Chinese Indonesian cuisine. The most popular crab species used in this recipe is mud crab, though blue crab may also be used. The crabs are cut into pieces and stir-fried shortly in a wok on strong fire in cooking oil and water, garlic, ginger, onion and scallion, mixed with oyster sauce, soy sauce, ang ciu (Chinese cooking wine) and sugar. Then the sauce is thickened with a corn starch and water mixture. The mild umami (savoury) seafood flavour of oyster sauce tends to enhance the natural flavour of the crab.",
+        "shortDesc": "Crab in oyster sauce or oyster sauce crab is a Chinese seafood dish of crab served in savoury oyster sauce. It is a popular dish in Asia, that can be found from China, Indonesia, Singapore to the Philippines. Crab in oyster sauce can trace its origin to Southern China's Cantonese cuisine, more precisely after the...",
+        "date": "2 May 2021"
+    },
+    {
+        "id": 78,
+        "category" : "Food",
+        "title" : "Popular in the Indian subcontinent: Aloo paratha",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Aloo_Paratha1.jpg/440px-Aloo_Paratha1.jpg",
+        "type":"default",
+        "description": "Aloo paratha (lit. 'potato paratha') is a bread dish originating from India. It is a breakfast dish that is popular in the Indian subcontinent. The recipe is one of the most popular breakfast dishes throughout the western, central and northern regions of India as well as the eastern regions of Pakistan. Aloo parathas consist of unleavened dough rolled with a mixture of mashed potato and spices, which is cooked on a hot tawa with butter or ghee. Aloo paratha is usually served with butter, chutney, curd, butter milk or Indian pickles, depending on the area of northern and western India in which it is served.",
+        "shortDesc": "Aloo paratha (lit. 'potato paratha') is a bread dish originating from India. It is a breakfast dish that is popular in the Indian subcontinent. The recipe is one of the most popular breakfast dishes throughout the western, central and northern regions of India as well as the eastern regions of Pakistan. Aloo parathas...",
+        "date": "21 April 2022"
+    },
+    {
+        "id": 79,
+        "category" : "Food",
+        "title" : "Mexican cuisine: The chile relleno",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Chile_Rellenos.jpg/500px-Chile_Rellenos.jpg",
+        "type":"topPost",
+        "description": "The chile relleno (stuffed chile) is a dish in Mexican cuisine that originated in the city of Puebla. In 1858 it was described as a 'green chile pepper stuffed with minced meat and coated with eggs'. The most common pepper used is Puebla's poblano pepper, though New Mexico chile, pasilla, or even jalapeño peppers are popular as well. It is typically stuffed with melted cheese, such as queso Chihuahua or queso Oaxaca or with picadillo meat made of diced pork, raisins and nuts, seasoned with canella; covered in an egg white batter, simply corn masa flour and fried, or without any batter at all.Although it is often served in a tomato sauce, the sauces can vary.",
+        "shortDesc": "The chile relleno (stuffed chile) is a dish in Mexican cuisine that originated in the city of Puebla. In 1858 it was described as a 'green chile pepper stuffed with minced meat and coated with eggs'. The most common pepper used is Puebla's poblano pepper, though New Mexico chile, pasilla, or even jalapeño peppers are",
+        "date": "20 April 2022"
+    },
+    {
+        "id": 80,
+        "category" : "Food",
+        "title" : "Mix-spiced small-chickpeas: Chana masala",
+        "img":"https://www.feastingathome.com/wp-content/uploads/2019/10/chana-masala_-10-1-1024x1536.jpg",
+        "type":"topPost",
+        "description": "Chana masala ('mix-spiced small-chickpeas'), also known as channay, chole masala, chhole masala, chole or chholay (plural), is a dish originating from the Indian subcontinent. The main ingredient is a variety of chickpea called chana (चना) or kala chana ('black chana') which are approximately half the diameter of typical chickpeas with a stronger flavour and firmer texture even after being cooked. Chole is the name for the larger and lighter coloured chickpea commonly found in the West. These are known as kabuli chana (काबुली चना) in Hindi. Chana masala is fairly dry and spicy with a sour citrus note (the flavor usually comes from coriander and onion). Chana are usually replaced by chole in most restaurants,[clarification needed] and both versions are widely sold as snack food and street food in the Indian subcontinent.",
+        "shortDesc": "Chana masala ('mix-spiced small-chickpeas'), also known as channay, chole masala, chhole masala, chole or chholay (plural), is a dish originating from the Indian subcontinent. The main ingredient is a variety of chickpea called chana (चना) or kala chana ('black chana') which are approximately half the diameter of...",
+        "date": "24 April 2022"
+    }
+
+]
