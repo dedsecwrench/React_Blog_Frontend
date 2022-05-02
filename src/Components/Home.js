@@ -34,7 +34,7 @@ const Home = () => {
         </div>
         <div className='second'>
           {list.map((current) => {
-            if (current.type === "Travel" && current.id !== 0 && current.category !== "Travel") {
+            if (current.type === "home" && current.id !== 0 && current.category === "Travel") {
               return (<div key={current.id}>
                 <div onClick={() => { goToDisplayContent(current.id) }} className='Home-2' >
                   <img className='img-home2' src={current.img} alt="" />
@@ -44,7 +44,6 @@ const Home = () => {
               </div>)
             }
           })}
-          {/* <div className='Home-2'> </div> */}
         </div>
       </div>
 
