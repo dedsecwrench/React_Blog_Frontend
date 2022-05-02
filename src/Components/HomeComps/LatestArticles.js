@@ -24,7 +24,6 @@ const LatestArticles = () => {
 
   const loadMore = () => {
     setFourPosts((prevValue) => prevValue + 4)
-    console.log(fourPosts);
     setVisible(false)
   }
 
