@@ -41,6 +41,15 @@ const DisplayContent = () => {
 
   const goToDisplayContent = (id) => {
     navigate(`/${list[id].category}/${id}`)
+    const tempArr = []
+    const indexes = getRandom()
+    tempArr.push(indexes[0])
+    tempArr.push(indexes[1])
+    tempArr.push(indexes[2])
+    for(let i=0;i<=3;i++){
+      items.pop()
+    }
+    setItems([...items, ...tempArr])
   }
 
   return (
